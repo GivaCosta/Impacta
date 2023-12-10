@@ -1,0 +1,366 @@
+Data 	Mês	Ano	Semestre	Estado 	Cidade	Produto	Qtde	Preço	Total
+01/01/2010	Janeiro	2010	1º semestre	Bahia	FEIRA DE SANTANA	Albumina	11	35	385
+02/01/2010	Janeiro	2010	1º semestre	Bahia	SANTO ANTONIO DE JESUS	Dextrose	8	8	64
+03/01/2010	Janeiro	2010	1º semestre	Espírito Santo	CARIACICA	Whey Protein	12	327	3924
+04/01/2010	Janeiro	2010	1º semestre	Minas Gerais	BELO HORIZONTE	Glutamina	12	310	3720
+05/01/2010	Janeiro	2010	1º semestre	Minas Gerais	BELO HORIZONTE	ZMA	9	35	315
+06/01/2010	Janeiro	2010	1º semestre	Minas Gerais	CONTAGEM	Waxy Maize	12	38	456
+07/01/2010	Janeiro	2010	1º semestre	Minas Gerais	CONTAGEM	Vitamina C	10	12	120
+08/01/2010	Janeiro	2010	1º semestre	Minas Gerais	ITAUNA	Creatina	10	35	350
+09/01/2010	Janeiro	2010	1º semestre	Minas Gerais	JUIZ DE FORA	Maltodextrina	8	8	64
+10/01/2010	Janeiro	2010	1º semestre	Paraná	CURITIBA	Albumina	8	12	96
+11/01/2010	Janeiro	2010	1º semestre	Paraná	ROLANDIA	Dextrose	8	38	304
+12/01/2010	Janeiro	2010	1º semestre	Rio de Janeiro	RIO DE JANEIRO	Whey Protein	11	327	3597
+13/01/2010	Janeiro	2010	1º semestre	Rio Grande do Sul	ELDORADO DO SUL	Glutamina	9	8	72
+14/01/2010	Janeiro	2010	1º semestre	Rio Grande do Sul	PORTO ALEGRE	ZMA	11	35	385
+15/01/2010	Janeiro	2010	1º semestre	Rio Grande do Sul	PORTO ALEGRE	Waxy Maize	10	38	380
+16/01/2010	Janeiro	2010	1º semestre	Santa Catarina	BRUSQUE	Vitamina C	10	12	120
+17/01/2010	Janeiro	2010	1º semestre	Santa Catarina	BRUSQUE	Creatina	10	8	80
+18/01/2010	Janeiro	2010	1º semestre	Santa Catarina	JOINVILLE	Maltodextrina	12	8	96
+19/01/2010	Janeiro	2010	1º semestre	São Paulo	CAMPINAS	Albumina	11	35	385
+20/01/2010	Janeiro	2010	1º semestre	São Paulo	GUARULHOS	Dextrose	10	310	3100
+21/01/2010	Janeiro	2010	1º semestre	São Paulo	OSASCO	Whey Protein	10	327	3270
+22/01/2010	Janeiro	2010	1º semestre	São Paulo	SANTO ANDRE	Glutamina	11	310	3410
+23/01/2010	Janeiro	2010	1º semestre	São Paulo	SAO CAETANO DO SUL	ZMA	8	35	280
+24/01/2010	Janeiro	2010	1º semestre	São Paulo	SÃO JOÃO DA BOA VISTA	Waxy Maize	10	38	380
+25/01/2010	Janeiro	2010	1º semestre	São Paulo	SAO PAULO	Vitamina C	11	12	132
+26/01/2010	Janeiro	2010	1º semestre	São Paulo	SAO PAULO	Creatina	11	35	385
+27/01/2010	Janeiro	2010	1º semestre	São Paulo	SAO PAULO	Maltodextrina	9	8	72
+28/01/2010	Janeiro	2010	1º semestre	São Paulo	SAO PAULO	Albumina	8	327	2616
+29/01/2010	Janeiro	2010	1º semestre	São Paulo	SAO PAULO	Dextrose	9	310	2790
+30/01/2010	Janeiro	2010	1º semestre	São Paulo	SAO PAULO	Whey Protein	12	327	3924
+31/01/2010	Janeiro	2010	1º semestre	São Paulo	SAO PAULO	Glutamina	12	12	144
+01/02/2010	Fevereiro	2010	1º semestre	São Paulo	SAO PAULO	ZMA	12	35	420
+02/02/2010	Fevereiro	2010	1º semestre	São Paulo	SAO PAULO	Waxy Maize	8	38	304
+03/02/2010	Fevereiro	2010	1º semestre	São Paulo	SAO PAULO	Vitamina C	10	12	120
+04/02/2010	Fevereiro	2010	1º semestre	São Paulo	SAO PAULO	Creatina	9	310	2790
+05/02/2010	Fevereiro	2010	1º semestre	São Paulo	SAO PAULO	Maltodextrina	10	38	380
+06/02/2010	Fevereiro	2010	1º semestre	São Paulo	SAO PAULO	Albumina	10	12	120
+07/02/2010	Fevereiro	2010	1º semestre	São Paulo	SAO PAULO	Dextrose	10	35	350
+08/02/2010	Fevereiro	2010	1º semestre	São Paulo	SAO PAULO	Whey Protein	12	327	3924
+09/02/2010	Fevereiro	2010	1º semestre	São Paulo	SAO PAULO	Glutamina	10	327	3270
+10/02/2010	Fevereiro	2010	1º semestre	São Paulo	SAO PAULO	ZMA	11	35	385
+11/02/2010	Fevereiro	2010	1º semestre	São Paulo	SAO PAULO	Waxy Maize	8	38	304
+12/02/2010	Fevereiro	2010	1º semestre	São Paulo	SAO PAULO	Vitamina C	12	12	144
+13/02/2010	Fevereiro	2010	1º semestre	São Paulo	SAO PAULO	Creatina	10	35	350
+14/02/2010	Fevereiro	2010	1º semestre	São Paulo	SAO PAULO	Maltodextrina	11	8	88
+15/02/2010	Fevereiro	2010	1º semestre	São Paulo	SAO PAULO	Albumina	8	327	2616
+16/02/2010	Fevereiro	2010	1º semestre	São Paulo	SAO PAULO	Dextrose	10	310	3100
+17/02/2010	Fevereiro	2010	1º semestre	São Paulo	SÃO PAULO	Whey Protein	11	327	3597
+18/02/2010	Fevereiro	2010	1º semestre	São Paulo	TAUBATE	Glutamina	11	12	132
+19/02/2010	Fevereiro	2010	1º semestre	São Paulo	SAO PAULO	ZMA	9	35	315
+20/02/2010	Fevereiro	2010	1º semestre	Alagoas	MACEIÓ	Waxy Maize	12	38	456
+21/02/2010	Fevereiro	2010	1º semestre	Bahia	BARREIRAS	Vitamina C	8	12	96
+22/02/2010	Fevereiro	2010	1º semestre	Bahia	CAMACARI	Creatina	10	310	3100
+23/02/2010	Fevereiro	2010	1º semestre	Bahia	EUNAPOLIS	Maltodextrina	11	38	418
+24/02/2010	Fevereiro	2010	1º semestre	Bahia	FEIRA DE SANTANA	Albumina	11	12	132
+25/02/2010	Fevereiro	2010	1º semestre	Bahia	FEIRA DE SANTANA	Dextrose	10	35	350
+26/02/2010	Fevereiro	2010	1º semestre	Bahia	ILHEUS	Whey Protein	12	327	3924
+27/02/2010	Fevereiro	2010	1º semestre	Bahia	JEQUIE	Glutamina	10	327	3270
+28/02/2010	Fevereiro	2010	1º semestre	Bahia	JUAZEIRO	ZMA	8	35	280
+01/03/2010	Março	2010	1º semestre	Bahia	LAURO DE FREITAS	Waxy Maize	12	38	456
+02/03/2010	Março	2010	1º semestre	Bahia	SALVADOR	Vitamina C	8	12	96
+03/03/2010	Março	2010	1º semestre	Bahia	SALVADOR	Creatina	8	12	96
+04/03/2010	Março	2010	1º semestre	Bahia	SALVADOR	Maltodextrina	8	12	96
+05/03/2010	Março	2010	1º semestre	Bahia	VITORIA DA CONQUISTA	Albumina	11	12	132
+06/03/2010	Março	2010	1º semestre	Brasília	BRASILIA	Dextrose	9	38	342
+07/03/2010	Março	2010	1º semestre	Brasília	BRASILIA	Whey Protein	10	327	3270
+08/03/2010	Março	2010	1º semestre	Ceará	CAUCAIA	Glutamina	9	12	108
+09/03/2010	Março	2010	1º semestre	Ceará	FORTALEZA	ZMA	11	35	385
+10/03/2010	Março	2010	1º semestre	Ceará	FORTALEZA	Waxy Maize	9	38	342
+11/03/2010	Março	2010	1º semestre	Ceará	FORTALEZA	Vitamina C	8	12	96
+12/03/2010	Março	2010	1º semestre	Ceará	JUAZEIRO DO NORTE	Creatina	12	35	420
+13/03/2010	Março	2010	1º semestre	Goiás	GOIANIA	Maltodextrina	11	35	385
+14/03/2010	Março	2010	1º semestre	Mato Grosso	CUIABA	Albumina	12	327	3924
+15/03/2010	Março	2010	1º semestre	Mato Grosso	RONDONOPOLIS	Dextrose	11	8	88
+16/03/2010	Março	2010	1º semestre	Mato Grosso do Sul	CAMPO GRANDE	Whey Protein	11	327	3597
+17/03/2010	Março	2010	1º semestre	Mato Grosso do Sul	CAMPO GRANDE	Glutamina	12	35	420
+18/03/2010	Março	2010	1º semestre	Paraíba	CAMPINA GRANDE	ZMA	11	35	385
+19/03/2010	Março	2010	1º semestre	Paraíba	JOAO PESSOA	Waxy Maize	8	38	304
+20/03/2010	Março	2010	1º semestre	Pernambuco	CARUARU	Vitamina C	11	12	132
+21/03/2010	Março	2010	1º semestre	Pernambuco	GARANHUNS	Creatina	8	327	2616
+22/03/2010	Março	2010	1º semestre	Pernambuco	JABOATAO DOS GUARARAPES	Maltodextrina	9	327	2943
+23/03/2010	Março	2010	1º semestre	Pernambuco	JABOATAO DOS GUARARAPES	Albumina	9	8	72
+24/03/2010	Março	2010	1º semestre	Pernambuco	PAULISTA	Dextrose	11	35	385
+25/03/2010	Março	2010	1º semestre	Rio de Janeiro	MACAE	Whey Protein	8	327	2616
+26/03/2010	Março	2010	1º semestre	Rio de Janeiro	QUEIMADOS	Glutamina	9	327	2943
+27/03/2010	Março	2010	1º semestre	Rio de Janeiro	RIO DE JANEIRO	ZMA	11	35	385
+28/03/2010	Março	2010	1º semestre	Rio de Janeiro	SÃO PEDRO DA ALDEIA	Waxy Maize	12	38	456
+29/03/2010	Março	2010	1º semestre	Rio Grande do Norte	NATAL	Vitamina C	10	12	120
+30/03/2010	Março	2010	1º semestre	Santa Catarina	BALNEARIO CAMBORIU	Creatina	10	35	350
+31/03/2010	Março	2010	1º semestre	São Paulo	ARUJÁ	Maltodextrina	8	8	64
+01/04/2010	Abril	2010	1º semestre	São Paulo	BOTUCATU	Albumina	11	327	3597
+02/04/2010	Abril	2010	1º semestre	São Paulo	CARAPICUIBA	Dextrose	11	310	3410
+03/04/2010	Abril	2010	1º semestre	São Paulo	DIADEMA	Whey Protein	9	327	2943
+04/04/2010	Abril	2010	1º semestre	São Paulo	EMBU	Glutamina	9	12	108
+05/04/2010	Abril	2010	1º semestre	São Paulo	ITANHAEM	ZMA	12	35	420
+06/04/2010	Abril	2010	1º semestre	São Paulo	ITU	Waxy Maize	9	38	342
+07/04/2010	Abril	2010	1º semestre	São Paulo	MOGI GUACU	Vitamina C	9	12	108
+08/04/2010	Abril	2010	1º semestre	São Paulo	PINDAMONHANGABA	Creatina	12	8	96
+09/04/2010	Abril	2010	1º semestre	São Paulo	SAO PAULO	Maltodextrina	9	12	108
+10/04/2010	Abril	2010	1º semestre	São Paulo	SAO PAULO	Albumina	12	38	456
+11/04/2010	Abril	2010	1º semestre	São Paulo	SAO PAULO	Dextrose	10	8	80
+12/04/2010	Abril	2010	1º semestre	São Paulo	TAUBATE	Whey Protein	10	327	3270
+13/04/2010	Abril	2010	1º semestre	Sergipe	ARACAJU	Glutamina	11	35	385
+14/04/2010	Abril	2010	1º semestre	Alagoas	MACEIO	ZMA	9	35	315
+15/04/2010	Abril	2010	1º semestre	Amapá	MACAPA	Waxy Maize	8	38	304
+16/04/2010	Abril	2010	1º semestre	Bahia	EUNAPOLIS	Vitamina C	12	12	144
+17/04/2010	Abril	2010	1º semestre	Bahia	SIMOES FILHO	Creatina	10	8	80
+18/04/2010	Abril	2010	1º semestre	Brasília	BRASILIA	Maltodextrina	10	35	350
+19/04/2010	Abril	2010	1º semestre	Ceará	EUSEBIO	Albumina	12	310	3720
+20/04/2010	Abril	2010	1º semestre	Ceará	FORTALEZA	Dextrose	9	310	2790
+21/04/2010	Abril	2010	1º semestre	Ceará	SOBRAL	Whey Protein	8	327	2616
+22/04/2010	Abril	2010	1º semestre	Espírito Santo	SERRA	Glutamina	9	327	2943
+23/04/2010	Abril	2010	1º semestre	Goiás	APARECIDA DE GOIANIA	ZMA	8	35	280
+24/04/2010	Abril	2010	1º semestre	Maranhão	SAO LUIS	Waxy Maize	11	38	418
+25/04/2010	Abril	2010	1º semestre	Minas Gerais	BETIM	Vitamina C	9	12	108
+26/04/2010	Abril	2010	1º semestre	Minas Gerais	CONTAGEM	Creatina	11	8	88
+27/04/2010	Abril	2010	1º semestre	Pará	ANANINDEUA	Maltodextrina	8	327	2616
+28/04/2010	Abril	2010	1º semestre	Paraíba	CONDE	Albumina	9	310	2790
+29/04/2010	Abril	2010	1º semestre	Paraná	CASCAVEL	Dextrose	11	38	418
+30/04/2010	Abril	2010	1º semestre	Paraná	LONDRINA	Whey Protein	10	327	3270
+01/05/2010	Maio	2010	1º semestre	Paraná	PINHAIS	Glutamina	9	35	315
+02/05/2010	Maio	2010	1º semestre	Pernambuco	CARUARU	ZMA	9	35	315
+03/05/2010	Maio	2010	1º semestre	Pernambuco	JABOATAO DOS GUARARAPES	Waxy Maize	8	38	304
+04/05/2010	Maio	2010	1º semestre	Pernambuco	RECIFE	Vitamina C	8	12	96
+05/05/2010	Maio	2010	1º semestre	Rio de Janeiro	BELFORD ROXO	Creatina	9	38	342
+06/05/2010	Maio	2010	1º semestre	Rio de Janeiro	NOVA FRIBURGO	Maltodextrina	12	12	144
+07/05/2010	Maio	2010	1º semestre	Rio de Janeiro	RIO DE JANEIRO	Albumina	8	35	280
+08/05/2010	Maio	2010	1º semestre	Rio de Janeiro	SAO GONCALO	Dextrose	10	8	80
+09/05/2010	Maio	2010	1º semestre	Rio de Janeiro	VASSOURAS	Whey Protein	12	327	3924
+10/05/2010	Maio	2010	1º semestre	Rio Grande do Norte	PARNAMIRIM	Glutamina	12	8	96
+11/05/2010	Maio	2010	1º semestre	Rio Grande do Sul	CACHOEIRINHA	ZMA	9	35	315
+12/05/2010	Maio	2010	1º semestre	Rio Grande do Sul	PASSO FUNDO	Waxy Maize	12	38	456
+13/05/2010	Maio	2010	1º semestre	Roraima	BOA VISTA	Vitamina C	10	12	120
+14/05/2010	Maio	2010	1º semestre	Santa Catarina	BIGUACU	Creatina	10	8	80
+15/05/2010	Maio	2010	1º semestre	Santa Catarina	CHAPECO	Maltodextrina	9	35	315
+16/05/2010	Maio	2010	1º semestre	Santa Catarina	JOINVILLE	Albumina	12	35	420
+17/05/2010	Maio	2010	1º semestre	Santa Catarina	SAO JOSE	Dextrose	12	327	3924
+18/05/2010	Maio	2010	1º semestre	São Paulo	BARUERI	Whey Protein	11	327	3597
+19/05/2010	Maio	2010	1º semestre	São Paulo	CAMPINAS	Glutamina	8	8	64
+20/05/2010	Maio	2010	1º semestre	São Paulo	CAMPINAS	ZMA	8	35	280
+21/05/2010	Maio	2010	1º semestre	São Paulo	JARINU	Waxy Maize	9	38	342
+22/05/2010	Maio	2010	1º semestre	São Paulo	MARILIA	Vitamina C	8	12	96
+23/05/2010	Maio	2010	1º semestre	São Paulo	MOGI DAS CRUZES	Creatina	10	310	3100
+24/05/2010	Maio	2010	1º semestre	São Paulo	PIRACICABA	Maltodextrina	12	327	3924
+25/05/2010	Maio	2010	1º semestre	São Paulo	RIBEIRÃO PRETO	Albumina	12	327	3924
+26/05/2010	Maio	2010	1º semestre	São Paulo	SANTOS	Dextrose	10	8	80
+27/05/2010	Maio	2010	1º semestre	São Paulo	SAO JOSE DO RIO PRETO	Whey Protein	10	327	3270
+28/05/2010	Maio	2010	1º semestre	São Paulo	SAO PAULO	Glutamina	11	8	88
+29/05/2010	Maio	2010	1º semestre	Sergipe	NOSSA SENHORA DO SOCORRO	ZMA	12	35	420
+30/05/2010	Maio	2010	1º semestre	Tocantins	PARAISO DO TOCANTINS	Waxy Maize	9	38	342
+31/05/2010	Maio	2010	1º semestre	São Paulo	SÃO PAULO	Vitamina C	8	12	96
+01/06/2010	Junho	2010	1º semestre	Bahia	SALVADOR	Creatina	9	12	108
+02/06/2010	Junho	2010	1º semestre	Minas Gerais	CONTAGEM	Maltodextrina	10	35	350
+03/06/2010	Junho	2010	1º semestre	Minas Gerais	JUIZ DE FORA	Albumina	10	8	80
+04/06/2010	Junho	2010	1º semestre	Paraná	CAMBE	Dextrose	11	327	3597
+05/06/2010	Junho	2010	1º semestre	Paraná	CURITIBA	Whey Protein	12	327	3924
+06/06/2010	Junho	2010	1º semestre	Pernambuco	RECIFE	Glutamina	8	38	304
+07/06/2010	Junho	2010	1º semestre	Rio de Janeiro	RIO DE JANEIRO	ZMA	12	35	420
+08/06/2010	Junho	2010	1º semestre	Rio de Janeiro	RIO DE JANEIRO	Waxy Maize	9	38	342
+09/06/2010	Junho	2010	1º semestre	Rio de Janeiro	RIO DE JANEIRO	Vitamina C	9	12	108
+10/06/2010	Junho	2010	1º semestre	Rio Grande do Sul	PORTO ALEGRE	Creatina	12	327	3924
+11/06/2010	Junho	2010	1º semestre	Santa Catarina	ICARA	Maltodextrina	12	8	96
+12/06/2010	Junho	2010	1º semestre	Santa Catarina	PALHOÇA	Albumina	11	12	132
+13/06/2010	Junho	2010	1º semestre	Santa Catarina	PORTO BELO	Dextrose	12	38	456
+14/06/2010	Junho	2010	1º semestre	São Paulo	DIADEMA	Whey Protein	9	327	2943
+15/06/2010	Junho	2010	1º semestre	São Paulo	ITAQUAQUECETUBA	Glutamina	11	8	88
+16/06/2010	Junho	2010	1º semestre	São Paulo	MAUA	ZMA	8	35	280
+17/06/2010	Junho	2010	1º semestre	São Paulo	MOGI DAS CRUZES	Waxy Maize	8	38	304
+18/06/2010	Junho	2010	1º semestre	São Paulo	PIRACICABA	Vitamina C	9	12	108
+19/06/2010	Junho	2010	1º semestre	São Paulo	RIBEIRAO PIRES	Creatina	8	8	64
+20/06/2010	Junho	2010	1º semestre	São Paulo	RIBEIRAO PRETO	Maltodextrina	9	8	72
+21/06/2010	Junho	2010	1º semestre	São Paulo	SANTO ANDRE	Albumina	9	35	315
+22/06/2010	Junho	2010	1º semestre	São Paulo	SANTO ANDRE	Dextrose	9	310	2790
+23/06/2010	Junho	2010	1º semestre	São Paulo	SANTO ANDRE	Whey Protein	12	327	3924
+24/06/2010	Junho	2010	1º semestre	São Paulo	SANTO ANDRE	Glutamina	9	310	2790
+25/06/2010	Junho	2010	1º semestre	São Paulo	SANTO ANDRE	ZMA	11	35	385
+26/06/2010	Junho	2010	1º semestre	São Paulo	SANTO ANDRE	Waxy Maize	8	38	304
+27/06/2010	Junho	2010	1º semestre	São Paulo	SANTO ANDRE	Vitamina C	9	12	108
+28/06/2010	Junho	2010	1º semestre	São Paulo	SAO BERNARDO DO CAMPO	Creatina	9	35	315
+29/06/2010	Junho	2010	1º semestre	São Paulo	SAO BERNARDO DO CAMPO	Maltodextrina	9	8	72
+30/06/2010	Junho	2010	1º semestre	São Paulo	SAO BERNARDO DO CAMPO	Albumina	10	327	3270
+01/07/2010	Julho	2010	2º semestre	São Paulo	SAO JOSE DOS CAMPOS	Dextrose	10	310	3100
+02/07/2010	Julho	2010	2º semestre	São Paulo	SAO JOSE DOS CAMPOS	Whey Protein	8	327	2616
+03/07/2010	Julho	2010	2º semestre	São Paulo	SAO JOSE DOS CAMPOS	Glutamina	9	12	108
+04/07/2010	Julho	2010	2º semestre	São Paulo	SAO PAULO	ZMA	9	35	315
+05/07/2010	Julho	2010	2º semestre	São Paulo	SAO PAULO	Waxy Maize	10	38	380
+06/07/2010	Julho	2010	2º semestre	São Paulo	SAO PAULO	Vitamina C	10	12	120
+07/07/2010	Julho	2010	2º semestre	São Paulo	SAO PAULO	Creatina	11	310	3410
+08/07/2010	Julho	2010	2º semestre	São Paulo	SAO PAULO	Maltodextrina	10	38	380
+09/07/2010	Julho	2010	2º semestre	São Paulo	SAO PAULO	Albumina	11	12	132
+10/07/2010	Julho	2010	2º semestre	São Paulo	SAO PAULO	Dextrose	8	35	280
+11/07/2010	Julho	2010	2º semestre	São Paulo	SAO PAULO	Whey Protein	12	327	3924
+12/07/2010	Julho	2010	2º semestre	São Paulo	SAO PAULO	Glutamina	11	327	3597
+13/07/2010	Julho	2010	2º semestre	São Paulo	SAO PAULO	ZMA	8	35	280
+14/07/2010	Julho	2010	2º semestre	São Paulo	SAO PAULO	Waxy Maize	10	38	380
+15/07/2010	Julho	2010	2º semestre	São Paulo	SAO PAULO	Vitamina C	12	12	144
+16/07/2010	Julho	2010	2º semestre	São Paulo	SAO PAULO	Creatina	12	8	96
+17/07/2010	Julho	2010	2º semestre	São Paulo	SOROCABA	Maltodextrina	10	8	80
+18/07/2010	Julho	2010	2º semestre	São Paulo	SOROCABA	Albumina	10	35	350
+19/07/2010	Julho	2010	2º semestre	São Paulo	SUZANO	Dextrose	9	35	315
+20/07/2010	Julho	2010	2º semestre	São Paulo	TABOAO DA SERRA	Whey Protein	9	327	2943
+21/07/2010	Julho	2010	2º semestre	Bahia	SALVADOR	Glutamina	10	8	80
+22/07/2010	Julho	2010	2º semestre	Brasília	BRASILIA	ZMA	8	35	280
+23/07/2010	Julho	2010	2º semestre	Ceará	CAUCAIA	Waxy Maize	10	38	380
+24/07/2010	Julho	2010	2º semestre	Minas Gerais	BETIM	Vitamina C	12	12	144
+25/07/2010	Julho	2010	2º semestre	Minas Gerais	CONTAGEM	Creatina	10	310	3100
+26/07/2010	Julho	2010	2º semestre	Minas Gerais	RIBEIRAO DAS NEVES	Maltodextrina	8	310	2480
+27/07/2010	Julho	2010	2º semestre	Minas Gerais	UBERLANDIA	Albumina	11	327	3597
+28/07/2010	Julho	2010	2º semestre	Paraíba	JOAO PESSOA	Dextrose	12	327	3924
+29/07/2010	Julho	2010	2º semestre	Paraná	PINHAIS	Whey Protein	10	327	3270
+30/07/2010	Julho	2010	2º semestre	Pernambuco	CABO DE SANTO AGOSTINHO	Glutamina	10	35	350
+31/07/2010	Julho	2010	2º semestre	Pernambuco	CABO DE SANTO AGOSTINHO	ZMA	11	35	385
+01/08/2010	Agosto	2010	2º semestre	Pernambuco	JABOATAO DOS GUARARAPES	Waxy Maize	12	38	456
+02/08/2010	Agosto	2010	2º semestre	Rio de Janeiro	DUQUE DE CAXIAS	Vitamina C	11	12	132
+03/08/2010	Agosto	2010	2º semestre	Rio de Janeiro	NOVA IGUACU	Creatina	11	38	418
+04/08/2010	Agosto	2010	2º semestre	Rio de Janeiro	RIO DE JANEIRO	Maltodextrina	10	12	120
+05/08/2010	Agosto	2010	2º semestre	Rio de Janeiro	SAO JOAO DE MERITI	Albumina	10	35	350
+06/08/2010	Agosto	2010	2º semestre	Rio Grande do Sul	PORTO ALEGRE	Dextrose	10	8	80
+07/08/2010	Agosto	2010	2º semestre	São Paulo	BARUERI	Whey Protein	9	327	2943
+08/08/2010	Agosto	2010	2º semestre	São Paulo	BARUERI	Glutamina	12	310	3720
+09/08/2010	Agosto	2010	2º semestre	São Paulo	GUARULHOS	ZMA	12	35	420
+10/08/2010	Agosto	2010	2º semestre	São Paulo	OSASCO	Waxy Maize	12	38	456
+11/08/2010	Agosto	2010	2º semestre	São Paulo	GUARULHOS	Vitamina C	9	12	108
+12/08/2010	Agosto	2010	2º semestre	São Paulo	ITAPEVI	Creatina	12	8	96
+13/08/2010	Agosto	2010	2º semestre	São Paulo	JUNDIAí	Maltodextrina	11	327	3597
+14/08/2010	Agosto	2010	2º semestre	São Paulo	RIBEIRAO PRETO	Albumina	8	8	64
+15/08/2010	Agosto	2010	2º semestre	São Paulo	SAO BERNARDO DO CAMPO	Dextrose	12	12	144
+16/08/2010	Agosto	2010	2º semestre	Bahia	FEIRA DE SANTANA	Whey Protein	8	327	2616
+17/08/2010	Agosto	2010	2º semestre	Bahia	SANTO ANTONIO DE JESUS	Glutamina	9	8	72
+18/08/2010	Agosto	2010	2º semestre	Bahia	VITORIA DA CONQUISTA	ZMA	10	35	350
+19/08/2010	Agosto	2010	2º semestre	Brasília	BRASILIA	Waxy Maize	12	38	456
+20/08/2010	Agosto	2010	2º semestre	Minas Gerais	BELO HORIZONTE	Vitamina C	11	12	132
+21/08/2010	Agosto	2010	2º semestre	Minas Gerais	ITAUNA	Creatina	9	327	2943
+22/08/2010	Agosto	2010	2º semestre	Minas Gerais	JUIZ DE FORA	Maltodextrina	12	8	96
+23/08/2010	Agosto	2010	2º semestre	Minas Gerais	POUSO ALEGRE	Albumina	8	8	64
+24/08/2010	Agosto	2010	2º semestre	Minas Gerais	UBERLANDIA	Dextrose	11	35	385
+25/08/2010	Agosto	2010	2º semestre	Paraná	CURITIBA	Whey Protein	10	327	3270
+26/08/2010	Agosto	2010	2º semestre	Paraná	ROLANDIA	Glutamina	8	310	2480
+27/08/2010	Agosto	2010	2º semestre	Piauí	TERESINA	ZMA	10	35	350
+28/08/2010	Agosto	2010	2º semestre	Rio de Janeiro	RESENDE	Waxy Maize	12	38	456
+29/08/2010	Agosto	2010	2º semestre	Rio de Janeiro	RIO DE JANEIRO	Vitamina C	9	12	108
+30/08/2010	Agosto	2010	2º semestre	Rio de Janeiro	VOLTA REDONDA	Creatina	12	8	96
+31/08/2010	Agosto	2010	2º semestre	Rio Grande do Sul	ELDORADO DO SUL	Maltodextrina	10	35	350
+01/09/2010	Setembro	2010	2º semestre	Rio Grande do Sul	PORTO ALEGRE	Albumina	11	8	88
+02/09/2010	Setembro	2010	2º semestre	Rio Grande do Sul	PORTO ALEGRE	Dextrose	10	327	3270
+03/09/2010	Setembro	2010	2º semestre	Santa Catarina	BRUSQUE	Whey Protein	12	327	3924
+04/09/2010	Setembro	2010	2º semestre	Santa Catarina	JARAGUÁ DO SUL	Glutamina	8	38	304
+05/09/2010	Setembro	2010	2º semestre	Santa Catarina	JOINVILLE	ZMA	10	35	350
+06/09/2010	Setembro	2010	2º semestre	São Paulo	CAMPINAS	Waxy Maize	10	38	380
+07/09/2010	Setembro	2010	2º semestre	São Paulo	GUARULHOS	Vitamina C	11	12	132
+08/09/2010	Setembro	2010	2º semestre	São Paulo	GUARULHOS	Creatina	9	327	2943
+09/09/2010	Setembro	2010	2º semestre	São Paulo	OSASCO	Maltodextrina	9	310	2790
+10/09/2010	Setembro	2010	2º semestre	São Paulo	SANTO ANDRE	Albumina	11	38	418
+11/09/2010	Setembro	2010	2º semestre	São Paulo	SAO CAETANO DO SUL	Dextrose	8	12	96
+12/09/2010	Setembro	2010	2º semestre	São Paulo	SÃO JOÃO DA BOA VISTA	Whey Protein	8	327	2616
+13/09/2010	Setembro	2010	2º semestre	São Paulo	SAO JOSE DOS CAMPOS	Glutamina	10	8	80
+14/09/2010	Setembro	2010	2º semestre	São Paulo	SAO PAULO	ZMA	9	35	315
+15/09/2010	Setembro	2010	2º semestre	São Paulo	SAO PAULO	Waxy Maize	12	38	456
+16/09/2010	Setembro	2010	2º semestre	São Paulo	SAO PAULO	Vitamina C	11	12	132
+17/09/2010	Setembro	2010	2º semestre	São Paulo	SAO PAULO	Creatina	8	12	96
+18/09/2010	Setembro	2010	2º semestre	São Paulo	SAO PAULO	Maltodextrina	8	310	2480
+19/09/2010	Setembro	2010	2º semestre	São Paulo	SAO PAULO	Albumina	10	38	380
+20/09/2010	Setembro	2010	2º semestre	São Paulo	SAO PAULO	Dextrose	11	327	3597
+21/09/2010	Setembro	2010	2º semestre	São Paulo	SAO PAULO	Whey Protein	9	327	2943
+22/09/2010	Setembro	2010	2º semestre	São Paulo	SAO PAULO	Glutamina	9	8	72
+23/09/2010	Setembro	2010	2º semestre	São Paulo	SAO PAULO	ZMA	10	35	350
+24/09/2010	Setembro	2010	2º semestre	São Paulo	SAO PAULO	Waxy Maize	9	38	342
+25/09/2010	Setembro	2010	2º semestre	São Paulo	SAO PAULO	Vitamina C	12	12	144
+26/09/2010	Setembro	2010	2º semestre	São Paulo	SAO PAULO	Creatina	11	327	3597
+27/09/2010	Setembro	2010	2º semestre	São Paulo	SAO PAULO	Maltodextrina	12	35	420
+28/09/2010	Setembro	2010	2º semestre	São Paulo	SAO PAULO	Albumina	11	8	88
+29/09/2010	Setembro	2010	2º semestre	São Paulo	SAO PAULO	Dextrose	12	12	144
+30/09/2010	Setembro	2010	2º semestre	São Paulo	SAO PAULO	Whey Protein	8	327	2616
+01/10/2010	Outubro	2010	2º semestre	São Paulo	SAO PAULO	Glutamina	8	38	304
+02/10/2010	Outubro	2010	2º semestre	São Paulo	SAO PAULO	ZMA	8	35	280
+03/10/2010	Outubro	2010	2º semestre	São Paulo	SAO PAULO	Waxy Maize	9	38	342
+04/10/2010	Outubro	2010	2º semestre	São Paulo	SÃO PAULO	Vitamina C	12	12	144
+05/10/2010	Outubro	2010	2º semestre	São Paulo	TAUBATE	Creatina	10	12	120
+06/10/2010	Outubro	2010	2º semestre	São Paulo	SAO PAULO	Maltodextrina	9	310	2790
+07/10/2010	Outubro	2010	2º semestre	Alagoas	ARAPIRACA	Albumina	11	38	418
+08/10/2010	Outubro	2010	2º semestre	Alagoas	MACEIÓ	Dextrose	11	327	3597
+09/10/2010	Outubro	2010	2º semestre	Bahia	EUNAPOLIS	Whey Protein	11	327	3597
+10/10/2010	Outubro	2010	2º semestre	Bahia	FEIRA DE SANTANA	Glutamina	10	8	80
+11/10/2010	Outubro	2010	2º semestre	Bahia	JEQUIE	ZMA	11	35	385
+12/10/2010	Outubro	2010	2º semestre	Bahia	JUAZEIRO	Waxy Maize	8	38	304
+13/10/2010	Outubro	2010	2º semestre	Bahia	SALVADOR	Vitamina C	9	12	108
+14/10/2010	Outubro	2010	2º semestre	Bahia	SALVADOR	Creatina	8	327	2616
+15/10/2010	Outubro	2010	2º semestre	Bahia	SALVADOR	Maltodextrina	10	35	350
+16/10/2010	Outubro	2010	2º semestre	Bahia	VITORIA DA CONQUISTA	Albumina	9	8	72
+17/10/2010	Outubro	2010	2º semestre	Brasília	BRASILIA	Dextrose	11	12	132
+18/10/2010	Outubro	2010	2º semestre	Brasília	BRASILIA	Whey Protein	11	327	3597
+19/10/2010	Outubro	2010	2º semestre	Brasília	BRASILIA	Glutamina	9	38	342
+20/10/2010	Outubro	2010	2º semestre	Brasília	BRASILIA	ZMA	10	35	350
+21/10/2010	Outubro	2010	2º semestre	Ceará	CAUCAIA	Waxy Maize	10	38	380
+22/10/2010	Outubro	2010	2º semestre	Ceará	CAUCAIA	Vitamina C	8	12	96
+23/10/2010	Outubro	2010	2º semestre	Ceará	EUSEBIO	Creatina	9	12	108
+24/10/2010	Outubro	2010	2º semestre	Ceará	FORTALEZA	Maltodextrina	9	310	2790
+25/10/2010	Outubro	2010	2º semestre	Ceará	FORTALEZA	Albumina	8	38	304
+26/10/2010	Outubro	2010	2º semestre	Ceará	FORTALEZA	Dextrose	12	327	3924
+27/10/2010	Outubro	2010	2º semestre	Ceará	FORTALEZA	Whey Protein	11	327	3597
+28/10/2010	Outubro	2010	2º semestre	Ceará	JUAZEIRO DO NORTE	Glutamina	11	8	88
+29/10/2010	Outubro	2010	2º semestre	Ceará	JUAZEIRO DO NORTE	ZMA	11	35	385
+30/10/2010	Outubro	2010	2º semestre	Goiás	APARECIDA DE GOIANIA	Waxy Maize	12	38	456
+31/10/2010	Outubro	2010	2º semestre	Goiás	GOIANIA	Vitamina C	10	12	120
+01/11/2010	Novembro	2010	2º semestre	Goiás	GOIANIA	Creatina	9	327	2943
+02/11/2010	Novembro	2010	2º semestre	Goiás	RIO VERDE	Maltodextrina	10	35	350
+03/11/2010	Novembro	2010	2º semestre	Goiás	VALPARAISO DE GOIAS	Albumina	8	8	64
+04/11/2010	Novembro	2010	2º semestre	Mato Grosso	CUIABA	Dextrose	9	12	108
+05/11/2010	Novembro	2010	2º semestre	Mato Grosso	CUIABA	Whey Protein	11	327	3597
+06/11/2010	Novembro	2010	2º semestre	Mato Grosso	CUIABA	Glutamina	10	38	380
+07/11/2010	Novembro	2010	2º semestre	Mato Grosso	RONDONOPOLIS	ZMA	11	35	385
+08/11/2010	Novembro	2010	2º semestre	Mato Grosso	RONDONOPOLIS	Waxy Maize	12	38	456
+09/11/2010	Novembro	2010	2º semestre	Mato Grosso	SINOP	Vitamina C	12	12	144
+10/11/2010	Novembro	2010	2º semestre	Mato Grosso	VARZEA GRANDE	Creatina	8	12	96
+11/11/2010	Novembro	2010	2º semestre	Mato Grosso do Sul	CAMPO GRANDE	Maltodextrina	11	310	3410
+12/11/2010	Novembro	2010	2º semestre	Mato Grosso do Sul	CAMPO GRANDE	Albumina	11	38	418
+13/11/2010	Novembro	2010	2º semestre	Minas Gerais	UBERLANDIA	Dextrose	12	327	3924
+14/11/2010	Novembro	2010	2º semestre	Paraíba	JOAO PESSOA	Whey Protein	10	327	3270
+15/11/2010	Novembro	2010	2º semestre	Paraíba	JOAO PESSOA	Glutamina	12	8	96
+16/11/2010	Novembro	2010	2º semestre	Paraíba	SANTA RITA	ZMA	12	35	420
+17/11/2010	Novembro	2010	2º semestre	Paraná	LONDRINA	Waxy Maize	10	38	380
+18/11/2010	Novembro	2010	2º semestre	Paraná	MARINGA	Vitamina C	11	12	132
+19/11/2010	Novembro	2010	2º semestre	Pernambuco	CAMARAGIBE	Creatina	11	327	3597
+20/11/2010	Novembro	2010	2º semestre	Pernambuco	CARUARU	Maltodextrina	10	35	350
+21/11/2010	Novembro	2010	2º semestre	Pernambuco	CARUARU	Albumina	12	310	3720
+22/11/2010	Novembro	2010	2º semestre	Pernambuco	GARANHUNS	Dextrose	12	38	456
+23/11/2010	Novembro	2010	2º semestre	Pernambuco	IGARASSU	Whey Protein	11	327	3597
+24/11/2010	Novembro	2010	2º semestre	Pernambuco	JABOATAO DOS GUARARAPES	Glutamina	12	35	420
+25/11/2010	Novembro	2010	2º semestre	Pernambuco	JABOATAO DOS GUARARAPES	ZMA	12	35	420
+26/11/2010	Novembro	2010	2º semestre	Pernambuco	JABOATAO DOS GUARARAPES	Waxy Maize	8	38	304
+27/11/2010	Novembro	2010	2º semestre	Pernambuco	OLINDA	Vitamina C	9	12	108
+28/11/2010	Novembro	2010	2º semestre	Pernambuco	PAULISTA	Creatina	11	38	418
+29/11/2010	Novembro	2010	2º semestre	Pernambuco	RECIFE	Maltodextrina	11	327	3597
+30/11/2010	Novembro	2010	2º semestre	Pernambuco	RECIFE	Albumina	12	35	420
+01/12/2010	Dezembro	2010	2º semestre	Rio de Janeiro	NOVA IGUACU	Dextrose	10	8	80
+02/12/2010	Dezembro	2010	2º semestre	Rio de Janeiro	QUEIMADOS	Whey Protein	8	327	2616
+03/12/2010	Dezembro	2010	2º semestre	Rio de Janeiro	RIO DE JANEIRO	Glutamina	10	310	3100
+04/12/2010	Dezembro	2010	2º semestre	Rio de Janeiro	RIO DE JANEIRO	ZMA	9	35	315
+05/12/2010	Dezembro	2010	2º semestre	Rio de Janeiro	RIO DE JANEIRO	Waxy Maize	8	38	304
+06/12/2010	Dezembro	2010	2º semestre	Rio Grande do Norte	MOSSORO	Vitamina C	10	12	120
+07/12/2010	Dezembro	2010	2º semestre	Rio Grande do Norte	NATAL	Creatina	10	8	80
+08/12/2010	Dezembro	2010	2º semestre	Rio Grande do Norte	NATAL	Maltodextrina	9	12	108
+09/12/2010	Dezembro	2010	2º semestre	Rio Grande do Sul	CACHOEIRINHA	Albumina	11	310	3410
+10/12/2010	Dezembro	2010	2º semestre	Rio Grande do Sul	CAXIAS DO SUL	Dextrose	9	38	342
+11/12/2010	Dezembro	2010	2º semestre	Rio Grande do Sul	PORTO ALEGRE	Whey Protein	12	327	3924
+12/12/2010	Dezembro	2010	2º semestre	Rondônia	PORTO VELHO	Glutamina	10	35	350
+13/12/2010	Dezembro	2010	2º semestre	Santa Catarina	BALNEARIO CAMBORIU	ZMA	8	35	280
+14/12/2010	Dezembro	2010	2º semestre	São Paulo	ARACATUBA	Waxy Maize	8	38	304
+15/12/2010	Dezembro	2010	2º semestre	São Paulo	ARUJÁ	Vitamina C	12	12	144
+16/12/2010	Dezembro	2010	2º semestre	São Paulo	BARUERI	Creatina	8	38	304
+17/12/2010	Dezembro	2010	2º semestre	São Paulo	BAURU	Maltodextrina	11	327	3597
+18/12/2010	Dezembro	2010	2º semestre	São Paulo	BAURU	Albumina	9	35	315
+19/12/2010	Dezembro	2010	2º semestre	São Paulo	BOTUCATU	Dextrose	10	8	80
+20/12/2010	Dezembro	2010	2º semestre	São Paulo	CAMPINAS	Whey Protein	8	327	2616
+21/12/2010	Dezembro	2010	2º semestre	São Paulo	CAMPINAS	Glutamina	11	310	3410
+22/12/2010	Dezembro	2010	2º semestre	São Paulo	DIADEMA	ZMA	10	35	350
+23/12/2010	Dezembro	2010	2º semestre	São Paulo	EMBU	Waxy Maize	10	38	380
+24/12/2010	Dezembro	2010	2º semestre	São Paulo	FRANCA	Vitamina C	9	12	108
+25/12/2010	Dezembro	2010	2º semestre	São Paulo	GUARULHOS	Creatina	10	8	80
+26/12/2010	Dezembro	2010	2º semestre	São Paulo	GUARULHOS	Maltodextrina	8	12	96
+27/12/2010	Dezembro	2010	2º semestre	São Paulo	INDAIATUBA	Albumina	12	310	3720
+28/12/2010	Dezembro	2010	2º semestre	São Paulo	ITU	Dextrose	12	38	456
+29/12/2010	Dezembro	2010	2º semestre	São Paulo	JACAREI	Whey Protein	8	327	2616
+30/12/2010	Dezembro	2010	2º semestre	São Paulo	MARILIA	Glutamina	8	35	280
+31/12/2010	Dezembro	2010	2º semestre	São Paulo	MOGI DAS CRUZES	ZMA	8	35	280

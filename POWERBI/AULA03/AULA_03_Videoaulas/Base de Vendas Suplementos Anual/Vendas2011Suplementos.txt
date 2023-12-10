@@ -1,0 +1,170 @@
+Data 	Mês	Ano	Semestre	Estado 	Cidade	Produto	Qtde	Preço	Total
+01/01/2011	Janeiro	2011	1º semestre	São Paulo	MOGI GUACU	Waxy Maize	11	38	418
+02/01/2011	Janeiro	2011	1º semestre	São Paulo	PRAIA GRANDE	Vitamina C	11	12	132
+03/01/2011	Janeiro	2011	1º semestre	São Paulo	PRESIDENTE PRUDENTE	Creatina	10	38	380
+04/01/2011	Janeiro	2011	1º semestre	São Paulo	RIBEIRAO PRETO	Maltodextrina	8	327	2616
+05/01/2011	Janeiro	2011	1º semestre	São Paulo	SALTO	Albumina	12	35	420
+06/01/2011	Janeiro	2011	1º semestre	São Paulo	SANTA BARBARA DOESTE	Dextrose	8	8	64
+07/01/2011	Janeiro	2011	1º semestre	São Paulo	SANTO ANDRE	Whey Protein	12	327	3924
+08/01/2011	Janeiro	2011	1º semestre	São Paulo	SANTOS	Glutamina	8	310	2480
+09/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO BERNARDO DO CAMPO	ZMA	9	35	315
+10/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO CARLOS	Waxy Maize	9	38	342
+11/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO JOSE DO RIO PRETO	Vitamina C	8	12	96
+12/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO JOSE DOS CAMPOS	Creatina	12	310	3720
+13/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO JOSE DOS CAMPOS	Maltodextrina	8	38	304
+14/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO PAULO	Albumina	12	327	3924
+15/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO PAULO	Dextrose	11	35	385
+16/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO PAULO	Whey Protein	12	327	3924
+17/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO PAULO	Glutamina	9	12	108
+18/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO PAULO	ZMA	8	35	280
+19/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO PAULO	Waxy Maize	11	38	418
+20/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO PAULO	Vitamina C	11	12	132
+21/01/2011	Janeiro	2011	1º semestre	São Paulo	SUMARE	Creatina	8	327	2616
+22/01/2011	Janeiro	2011	1º semestre	São Paulo	TAUBATE	Maltodextrina	11	35	385
+23/01/2011	Janeiro	2011	1º semestre	São Paulo	TAUBATE	Albumina	9	8	72
+24/01/2011	Janeiro	2011	1º semestre	São Paulo	VOTORANTIM	Dextrose	8	12	96
+25/01/2011	Janeiro	2011	1º semestre	Tocantins	PALMAS	Whey Protein	8	327	2616
+26/01/2011	Janeiro	2011	1º semestre	Alagoas	MACEIO	Glutamina	8	38	304
+27/01/2011	Janeiro	2011	1º semestre	Amazonas	MANAUS	ZMA	8	35	280
+28/01/2011	Janeiro	2011	1º semestre	Bahia	EUNAPOLIS	Waxy Maize	11	38	418
+29/01/2011	Janeiro	2011	1º semestre	Bahia	SIMOES FILHO	Vitamina C	12	12	144
+30/01/2011	Janeiro	2011	1º semestre	Brasília	BRASILIA	Creatina	12	12	144
+31/01/2011	Janeiro	2011	1º semestre	Ceará	BARBALHA	Maltodextrina	11	310	3410
+01/02/2011	Fevereiro	2011	1º semestre	Ceará	EUSEBIO	Albumina	12	38	456
+02/02/2011	Fevereiro	2011	1º semestre	Ceará	FORTALEZA	Dextrose	11	327	3597
+03/02/2011	Fevereiro	2011	1º semestre	Ceará	SOBRAL	Whey Protein	8	327	2616
+04/02/2011	Fevereiro	2011	1º semestre	Espírito Santo	SERRA	Glutamina	9	8	72
+05/02/2011	Fevereiro	2011	1º semestre	Goiás	APARECIDA DE GOIANIA	ZMA	11	35	385
+06/02/2011	Fevereiro	2011	1º semestre	Maranhão	SAO LUIS	Waxy Maize	10	38	380
+07/02/2011	Fevereiro	2011	1º semestre	Mato Grosso	CUIABÁ	Vitamina C	9	12	108
+08/02/2011	Fevereiro	2011	1º semestre	Mato Grosso do Sul	CAMPO GRANDE	Creatina	11	327	3597
+09/02/2011	Fevereiro	2011	1º semestre	Minas Gerais	BETIM	Maltodextrina	11	35	385
+10/02/2011	Fevereiro	2011	1º semestre	Minas Gerais	CONTAGEM	Albumina	8	8	64
+11/02/2011	Fevereiro	2011	1º semestre	Minas Gerais	CONTAGEM	Dextrose	10	12	120
+12/02/2011	Fevereiro	2011	1º semestre	Pará	ANANINDEUA	Whey Protein	9	327	2943
+13/02/2011	Fevereiro	2011	1º semestre	Paraíba	CONDE	Glutamina	10	38	380
+14/02/2011	Fevereiro	2011	1º semestre	Paraná	CASCAVEL	ZMA	12	35	420
+15/02/2011	Fevereiro	2011	1º semestre	Paraná	LONDRINA	Waxy Maize	9	38	342
+16/02/2011	Fevereiro	2011	1º semestre	Paraná	PINHAIS	Vitamina C	10	12	120
+17/02/2011	Fevereiro	2011	1º semestre	Pernambuco	CARUARU	Creatina	11	12	132
+18/02/2011	Fevereiro	2011	1º semestre	Pernambuco	JABOATAO DOS GUARARAPES	Maltodextrina	8	310	2480
+19/02/2011	Fevereiro	2011	1º semestre	Pernambuco	RECIFE	Albumina	8	38	304
+20/02/2011	Fevereiro	2011	1º semestre	Rio de Janeiro	BELFORD ROXO	Dextrose	8	327	2616
+21/02/2011	Fevereiro	2011	1º semestre	Rio de Janeiro	NOVA FRIBURGO	Whey Protein	9	327	2943
+22/02/2011	Fevereiro	2011	1º semestre	Rio de Janeiro	RIO DE JANEIRO	Glutamina	11	35	385
+23/02/2011	Fevereiro	2011	1º semestre	Rio de Janeiro	SAO GONCALO	ZMA	8	35	280
+24/02/2011	Fevereiro	2011	1º semestre	Rio de Janeiro	VASSOURAS	Waxy Maize	12	38	456
+25/02/2011	Fevereiro	2011	1º semestre	Rio Grande do Norte	PARNAMIRIM	Vitamina C	8	12	96
+26/02/2011	Fevereiro	2011	1º semestre	Rio Grande do Sul	CACHOEIRINHA	Creatina	9	38	342
+27/02/2011	Fevereiro	2011	1º semestre	Rio Grande do Sul	PASSO FUNDO	Maltodextrina	10	327	3270
+28/02/2011	Fevereiro	2011	1º semestre	Rondônia	GUAJARA MIRIM	Albumina	12	35	420
+01/03/2011	Março	2011	1º semestre	Roraima	BOA VISTA	Dextrose	11	8	88
+02/03/2011	Março	2011	1º semestre	Santa Catarina	BIGUACU	Whey Protein	9	327	2943
+03/03/2011	Março	2011	1º semestre	Santa Catarina	CHAPECO	Glutamina	9	310	2790
+04/03/2011	Março	2011	1º semestre	Santa Catarina	JOINVILLE	ZMA	12	35	420
+05/03/2011	Março	2011	1º semestre	Santa Catarina	SAO JOSE	Waxy Maize	9	38	342
+06/03/2011	Março	2011	1º semestre	São Paulo	BARUERI	Vitamina C	10	12	120
+07/03/2011	Março	2011	1º semestre	São Paulo	CAMPINAS	Creatina	9	8	72
+08/03/2011	Março	2011	1º semestre	São Paulo	CAMPINAS	Maltodextrina	9	12	108
+09/03/2011	Março	2011	1º semestre	São Paulo	GUARULHOS	Albumina	11	310	3410
+10/03/2011	Março	2011	1º semestre	São Paulo	JARINU	Dextrose	8	38	304
+11/03/2011	Março	2011	1º semestre	São Paulo	MARILIA	Whey Protein	11	327	3597
+12/03/2011	Março	2011	1º semestre	São Paulo	MOGI DAS CRUZES	Glutamina	11	35	385
+13/03/2011	Março	2011	1º semestre	São Paulo	PIRACICABA	ZMA	8	35	280
+14/03/2011	Março	2011	1º semestre	São Paulo	POA	Waxy Maize	11	38	418
+15/03/2011	Março	2011	1º semestre	São Paulo	RIBEIRÃO PRETO	Vitamina C	9	12	108
+16/03/2011	Março	2011	1º semestre	São Paulo	SANTOS	Creatina	11	38	418
+17/03/2011	Março	2011	1º semestre	São Paulo	SAO JOSE DO RIO PRETO	Maltodextrina	9	327	2943
+18/03/2011	Março	2011	1º semestre	São Paulo	SAO PAULO	Albumina	11	35	385
+19/03/2011	Março	2011	1º semestre	São Paulo	SAO PAULO	Dextrose	11	8	88
+20/03/2011	Março	2011	1º semestre	São Paulo	SAO PAULO	Whey Protein	11	327	3597
+21/03/2011	Março	2011	1º semestre	São Paulo	SAO PAULO	Glutamina	9	310	2790
+22/03/2011	Março	2011	1º semestre	São Paulo	TAUBATE	ZMA	11	35	385
+23/03/2011	Março	2011	1º semestre	São Paulo	TAUBATE	Waxy Maize	11	38	418
+24/03/2011	Março	2011	1º semestre	Sergipe	NOSSA SENHORA DO SOCORRO	Vitamina C	12	12	144
+25/03/2011	Março	2011	1º semestre	São Paulo	SÃO PAULO	Creatina	9	8	72
+26/03/2011	Março	2011	1º semestre	Minas Gerais	CONTAGEM	Maltodextrina	12	12	144
+25/03/2011	Março	2011	1º semestre	Minas Gerais	JUIZ DE FORA	Albumina	11	35	280
+24/03/2011	Março	2011	1º semestre	Paraná	CAMBE	Dextrose	11	12	108
+23/03/2011	Março	2011	1º semestre	Paraná	CURITIBA	Whey Protein	12	327	3924
+22/03/2011	Março	2011	1º semestre	Paraná	CURITIBA	Glutamina	10	327	3270
+21/03/2011	Março	2011	1º semestre	Pernambuco	RECIFE	ZMA	10	35	350
+20/03/2011	Março	2011	1º semestre	Rio de Janeiro	NITEROI	Waxy Maize	9	38	342
+19/03/2011	Março	2011	1º semestre	Rio de Janeiro	RIO DE JANEIRO	Vitamina C	11	12	132
+18/03/2011	Março	2011	1º semestre	Rio de Janeiro	RIO DE JANEIRO	Creatina	10	12	120
+17/03/2011	Março	2011	1º semestre	Rio de Janeiro	RIO DE JANEIRO	Maltodextrina	8	327	3597
+16/03/2011	Março	2011	1º semestre	Rio de Janeiro	RIO DE JANEIRO	Albumina	10	8	72
+15/03/2011	Março	2011	1º semestre	Rio de Janeiro	RIO DE JANEIRO	Dextrose	10	327	2616
+14/03/2011	Março	2011	1º semestre	Rio de Janeiro	RIO DE JANEIRO	Whey Protein	11	327	3597
+13/03/2011	Março	2011	1º semestre	Rio de Janeiro	RIO DE JANEIRO	Glutamina	12	310	2790
+12/03/2011	Março	2011	1º semestre	Rio de Janeiro	RIO DE JANEIRO	ZMA	8	35	280
+11/03/2011	Março	2011	1º semestre	Rio de Janeiro	RIO DE JANEIRO	Waxy Maize	11	38	418
+10/03/2011	Março	2011	1º semestre	Rio de Janeiro	SAO GONCALO	Vitamina C	8	12	96
+09/03/2011	Março	2011	1º semestre	Rio Grande do Sul	PORTO ALEGRE	Creatina	11	327	2616
+08/03/2011	Março	2011	1º semestre	Santa Catarina	ICARA	Maltodextrina	10	8	72
+07/03/2011	Março	2011	1º semestre	Santa Catarina	PALHOÇA	Albumina	12	12	96
+06/03/2011	Março	2011	1º semestre	Santa Catarina	PORTO BELO	Dextrose	11	35	350
+05/03/2011	Março	2011	1º semestre	São Paulo	ATIBAIA	Whey Protein	12	327	3924
+04/03/2011	Março	2011	1º semestre	São Paulo	ATIBAIA	Glutamina	10	12	108
+03/03/2011	Março	2011	1º semestre	São Paulo	ATIBAIA	ZMA	12	35	420
+02/03/2011	Março	2011	1º semestre	São Paulo	ATIBAIA	Waxy Maize	11	38	418
+01/03/2011	Março	2011	1º semestre	São Paulo	ATIBAIA	Vitamina C	10	12	120
+28/02/2011	Fevereiro	2011	1º semestre	São Paulo	BIRITIBA MIRIM	Creatina	8	8	72
+27/02/2011	Fevereiro	2011	1º semestre	São Paulo	DIADEMA	Maltodextrina	10	8	72
+26/02/2011	Fevereiro	2011	1º semestre	São Paulo	DIADEMA	Albumina	10	8	72
+25/02/2011	Fevereiro	2011	1º semestre	São Paulo	GUARULHOS	Dextrose	9	38	380
+24/02/2011	Fevereiro	2011	1º semestre	São Paulo	GUARULHOS	Whey Protein	12	327	3924
+23/02/2011	Fevereiro	2011	1º semestre	São Paulo	GUARULHOS	Glutamina	8	8	80
+22/02/2011	Fevereiro	2011	1º semestre	São Paulo	ITAQUAQUECETUBA	ZMA	10	35	350
+21/02/2011	Fevereiro	2011	1º semestre	São Paulo	ITAQUAQUECETUBA	Waxy Maize	10	38	380
+20/02/2011	Fevereiro	2011	1º semestre	São Paulo	ITAQUAQUECETUBA	Vitamina C	10	12	120
+19/02/2011	Fevereiro	2011	1º semestre	São Paulo	MAUA	Creatina	10	8	64
+18/02/2011	Fevereiro	2011	1º semestre	São Paulo	MAUA	Maltodextrina	11	38	456
+17/02/2011	Fevereiro	2011	1º semestre	São Paulo	MAUA	Albumina	10	310	2480
+16/02/2011	Fevereiro	2011	1º semestre	São Paulo	MOGI DAS CRUZES	Dextrose	10	35	280
+15/02/2011	Fevereiro	2011	1º semestre	São Paulo	MOGI DAS CRUZES	Whey Protein	9	327	2943
+14/02/2011	Fevereiro	2011	1º semestre	São Paulo	MOGI DAS CRUZES	Glutamina	12	35	350
+13/02/2011	Fevereiro	2011	1º semestre	São Paulo	PIRACICABA	ZMA	8	35	280
+12/02/2011	Fevereiro	2011	1º semestre	São Paulo	RIBEIRAO PIRES	Waxy Maize	12	38	456
+11/02/2011	Fevereiro	2011	1º semestre	São Paulo	RIBEIRAO PRETO	Vitamina C	10	12	120
+10/02/2011	Fevereiro	2011	1º semestre	São Paulo	SANTO ANDRE	Creatina	10	8	72
+09/02/2011	Fevereiro	2011	1º semestre	São Paulo	SANTO ANDRE	Maltodextrina	10	38	304
+08/02/2011	Fevereiro	2011	1º semestre	São Paulo	SANTO ANDRE	Albumina	12	8	88
+07/02/2011	Fevereiro	2011	1º semestre	São Paulo	SANTO ANDRE	Dextrose	9	38	418
+06/02/2011	Fevereiro	2011	1º semestre	São Paulo	SANTO ANDRE	Whey Protein	9	327	2943
+05/02/2011	Fevereiro	2011	1º semestre	São Paulo	SANTO ANDRE	Glutamina	8	310	3720
+04/02/2011	Fevereiro	2011	1º semestre	São Paulo	SANTO ANDRE	ZMA	9	35	315
+03/02/2011	Fevereiro	2011	1º semestre	São Paulo	SANTO ANDRE	Waxy Maize	10	38	380
+02/02/2011	Fevereiro	2011	1º semestre	São Paulo	SANTO ANDRE	Vitamina C	10	12	120
+01/02/2011	Fevereiro	2011	1º semestre	São Paulo	SANTO ANDRE	Creatina	12		
+31/01/2011	Janeiro	2011	1º semestre	São Paulo	SANTO ANDRE	Maltodextrina	8		
+30/01/2011	Janeiro	2011	1º semestre	São Paulo	SANTO ANDRE	Albumina	10	35	420
+29/01/2011	Janeiro	2011	1º semestre	São Paulo	SANTO ANDRE	Dextrose	9	12	108
+28/01/2011	Janeiro	2011	1º semestre	São Paulo	SANTO ANDRE	Whey Protein	8	327	2616
+27/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO BERNARDO DO CAMPO	Glutamina	9	327	2616
+26/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO BERNARDO DO CAMPO	ZMA	12	35	420
+25/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO BERNARDO DO CAMPO	Waxy Maize	11	38	418
+24/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO BERNARDO DO CAMPO	Vitamina C	9	12	108
+23/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO BERNARDO DO CAMPO	Creatina	9	12	96
+22/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO BERNARDO DO CAMPO	Maltodextrina	9	327	3924
+21/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO CAETANO DO SUL	Albumina	9	8	64
+20/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO JOSE DOS CAMPOS	Dextrose	11	327	3270
+19/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO JOSE DOS CAMPOS	Whey Protein	10	327	3270
+18/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO JOSE DOS CAMPOS	Glutamina	8	310	2480
+17/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO JOSE DOS CAMPOS	ZMA	11	35	385
+16/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO JOSE DOS CAMPOS	Waxy Maize	11	38	418
+15/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO PAULO	Vitamina C	11	12	132
+14/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO PAULO	Creatina	8	327	3597
+13/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO PAULO	Maltodextrina	12	8	64
+12/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO PAULO	Albumina	10	12	144
+11/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO PAULO	Dextrose	11	35	385
+10/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO PAULO	Whey Protein	8	327	2616
+09/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO PAULO	Glutamina	12	12	96
+08/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO PAULO	ZMA	10	35	350
+07/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO PAULO	Waxy Maize	10	38	380
+06/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO PAULO	Vitamina C	12	12	144
+05/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO PAULO	Creatina	10	8	88
+04/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO PAULO	Maltodextrina	12	8	96
+03/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO PAULO	Albumina	12	8	72
+02/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO PAULO	Dextrose	12	38	342
+01/01/2011	Janeiro	2011	1º semestre	São Paulo	SAO PAULO	Whey Protein	12	327	3924

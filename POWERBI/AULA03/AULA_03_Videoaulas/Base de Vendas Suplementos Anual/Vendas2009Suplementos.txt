@@ -1,0 +1,366 @@
+Data 	Mês	Ano	Semestre	Estado 	Cidade	Produto	Qtde	Preço	Total
+31/12/2009	Dezembro	2009	2º semestre	Ceará	FORTALEZA	Maltodextrina	11	35	315
+30/12/2009	Dezembro	2009	2º semestre	Ceará	JUAZEIRO DO NORTE	Albumina	12	8	88
+29/12/2009	Dezembro	2009	2º semestre	Ceará	JUAZEIRO DO NORTE	Dextrose	9	12	108
+28/12/2009	Dezembro	2009	2º semestre	Ceará	SOBRAL	Whey Protein	8	327	2616
+27/12/2009	Dezembro	2009	2º semestre	Ceará	SOBRAL	Glutamina	8	310	3100
+26/12/2009	Dezembro	2009	2º semestre	Espírito Santo	SERRA	ZMA	9	35	315
+25/12/2009	Dezembro	2009	2º semestre	Espírito Santo	VILA VELHA	Waxy Maize	12	38	456
+24/12/2009	Dezembro	2009	2º semestre	Goiás	APARECIDA DE GOIANIA	Vitamina C	9	12	108
+23/12/2009	Dezembro	2009	2º semestre	Goiás	GOIANIA	Creatina	11	12	108
+22/12/2009	Dezembro	2009	2º semestre	Goiás	GOIANIA	Maltodextrina	11	8	96
+21/12/2009	Dezembro	2009	2º semestre	Goiás	RIO VERDE	Albumina	10	310	3720
+20/12/2009	Dezembro	2009	2º semestre	Goiás	VALPARAISO DE GOIAS	Dextrose	9	8	64
+19/12/2009	Dezembro	2009	2º semestre	Mato Grosso	CUIABA	Whey Protein	12	327	3924
+18/12/2009	Dezembro	2009	2º semestre	Mato Grosso	CUIABA	Glutamina	12	8	64
+17/12/2009	Dezembro	2009	2º semestre	Mato Grosso	CUIABA	ZMA	9	35	315
+16/12/2009	Dezembro	2009	2º semestre	Mato Grosso	CUIABA	Waxy Maize	12	38	456
+15/12/2009	Dezembro	2009	2º semestre	Mato Grosso	RONDONOPOLIS	Vitamina C	10	12	120
+14/12/2009	Dezembro	2009	2º semestre	Mato Grosso	RONDONOPOLIS	Creatina	8	8	72
+13/12/2009	Dezembro	2009	2º semestre	Mato Grosso	SINOP	Maltodextrina	8	310	2480
+12/12/2009	Dezembro	2009	2º semestre	Mato Grosso	VARZEA GRANDE	Albumina	9	8	88
+11/12/2009	Dezembro	2009	2º semestre	Mato Grosso do Sul	CAMPO GRANDE	Dextrose	9	310	3720
+10/12/2009	Dezembro	2009	2º semestre	Mato Grosso do Sul	CAMPO GRANDE	Whey Protein	12	327	3924
+09/12/2009	Dezembro	2009	2º semestre	Mato Grosso do Sul	CAMPO GRANDE	Glutamina	11	35	420
+08/12/2009	Dezembro	2009	2º semestre	Mato Grosso do Sul	CAMPO GRANDE	ZMA	9	35	315
+07/12/2009	Dezembro	2009	2º semestre	Minas Gerais	GOVERNADOR VALADARES	Waxy Maize	10	38	380
+06/12/2009	Dezembro	2009	2º semestre	Paraíba	CAMPINA GRANDE	Vitamina C	9	12	108
+05/12/2009	Dezembro	2009	2º semestre	Paraíba	CAMPINA GRANDE	Creatina	11	310	2790
+04/12/2009	Dezembro	2009	2º semestre	Paraíba	JOAO PESSOA	Maltodextrina	10	310	2480
+03/12/2009	Dezembro	2009	2º semestre	Paraíba	JOAO PESSOA	Albumina	11	310	2480
+02/12/2009	Dezembro	2009	2º semestre	Paraná	LONDRINA	Dextrose	9	8	88
+01/12/2009	Dezembro	2009	2º semestre	Paraná	MARINGA	Whey Protein	8	327	2616
+30/11/2009	Novembro	2009	2º semestre	Pernambuco	CARUARU	Glutamina	9		
+29/11/2009	Novembro	2009	2º semestre	Pernambuco	GARANHUNS	ZMA	8	35	280
+28/11/2009	Novembro	2009	2º semestre	Pernambuco	JABOATAO DOS GUARARAPES	Waxy Maize	10	38	380
+27/11/2009	Novembro	2009	2º semestre	Pernambuco	PAULISTA	Vitamina C	9	12	108
+26/11/2009	Novembro	2009	2º semestre	Pernambuco	RECIFE	Creatina	9		
+25/11/2009	Novembro	2009	2º semestre	Rio de Janeiro	CAMPOS DOS GOYTACAZES	Maltodextrina	9	310	2480
+24/11/2009	Novembro	2009	2º semestre	Rio de Janeiro	MACAE	Albumina	10	35	420
+23/11/2009	Novembro	2009	2º semestre	Rio de Janeiro	NOVA IGUACU	Dextrose	10	12	120
+22/11/2009	Novembro	2009	2º semestre	Rio de Janeiro	QUEIMADOS	Whey Protein	9	327	2943
+21/11/2009	Novembro	2009	2º semestre	Rio de Janeiro	RIO DE JANEIRO	Glutamina	8	327	2943
+20/11/2009	Novembro	2009	2º semestre	Rio Grande do Norte	MOSSORO	ZMA	12	35	420
+19/11/2009	Novembro	2009	2º semestre	Rio Grande do Norte	NATAL	Waxy Maize	11	38	418
+18/11/2009	Novembro	2009	2º semestre	Rio Grande do Norte	NATAL	Vitamina C	9	12	108
+17/11/2009	Novembro	2009	2º semestre	Rio Grande do Sul	CACHOEIRINHA	Creatina	9	12	144
+16/11/2009	Novembro	2009	2º semestre	Rondônia	PORTO VELHO	Maltodextrina	9	310	2480
+15/11/2009	Novembro	2009	2º semestre	Santa Catarina	BALNEARIO CAMBORIU	Albumina	10	8	64
+14/11/2009	Novembro	2009	2º semestre	São Paulo	ARUJÁ	Dextrose	9	327	3270
+13/11/2009	Novembro	2009	2º semestre	São Paulo	BAURU	Whey Protein	8	327	2616
+12/11/2009	Novembro	2009	2º semestre	São Paulo	CAMPINAS	Glutamina	11	310	3720
+11/11/2009	Novembro	2009	2º semestre	São Paulo	CAMPINAS	ZMA	12	35	420
+10/11/2009	Novembro	2009	2º semestre	São Paulo	CARAPICUIBA	Waxy Maize	10	38	380
+09/11/2009	Novembro	2009	2º semestre	São Paulo	DIADEMA	Vitamina C	11	12	132
+08/11/2009	Novembro	2009	2º semestre	São Paulo	EMBU	Creatina	8	327	3924
+07/11/2009	Novembro	2009	2º semestre	São Paulo	GUARULHOS	Maltodextrina	9	310	2480
+06/11/2009	Novembro	2009	2º semestre	São Paulo	INDAIATUBA	Albumina	9	12	120
+05/11/2009	Novembro	2009	2º semestre	São Paulo	ITANHAEM	Dextrose	9	35	280
+04/11/2009	Novembro	2009	2º semestre	São Paulo	ITU	Whey Protein	12	327	3924
+03/11/2009	Novembro	2009	2º semestre	São Paulo	JACAREI	Glutamina	10	12	108
+02/11/2009	Novembro	2009	2º semestre	São Paulo	MOGI GUACU	ZMA	9	35	315
+01/11/2009	Novembro	2009	2º semestre	São Paulo	PINDAMONHANGABA	Waxy Maize	11	38	418
+31/10/2009	Outubro	2009	2º semestre	São Paulo	SALTO	Vitamina C	12	12	144
+30/10/2009	Outubro	2009	2º semestre	São Paulo	SANTA BARBARA DOESTE	Creatina	11	8	96
+29/10/2009	Outubro	2009	2º semestre	São Paulo	SAO CARLOS	Maltodextrina	11	310	2480
+28/10/2009	Outubro	2009	2º semestre	São Paulo	SAO JOSE DOS CAMPOS	Albumina	12	8	80
+27/10/2009	Outubro	2009	2º semestre	São Paulo	SAO PAULO	Dextrose	9	38	342
+26/10/2009	Outubro	2009	2º semestre	São Paulo	SAO PAULO	Whey Protein	9	327	2943
+25/10/2009	Outubro	2009	2º semestre	São Paulo	SAO PAULO	Glutamina	12	8	96
+24/10/2009	Outubro	2009	2º semestre	São Paulo	SUMARE	ZMA	10	35	350
+23/10/2009	Outubro	2009	2º semestre	São Paulo	TAUBATE	Waxy Maize	11	38	418
+22/10/2009	Outubro	2009	2º semestre	Sergipe	ARACAJU	Vitamina C	10	12	120
+21/10/2009	Outubro	2009	2º semestre	Tocantins	PALMAS	Creatina	9	8	72
+20/10/2009	Outubro	2009	2º semestre	Alagoas	MACEIO	Maltodextrina	12	310	2480
+19/10/2009	Outubro	2009	2º semestre	Amazonas	MANAUS	Albumina	9	310	3410
+18/10/2009	Outubro	2009	2º semestre	Bahia	EUNAPOLIS	Dextrose	9	35	315
+17/10/2009	Outubro	2009	2º semestre	Bahia	SIMOES FILHO	Whey Protein	11	327	3597
+16/10/2009	Outubro	2009	2º semestre	Brasília	BRASILIA	Glutamina	8	35	280
+15/10/2009	Outubro	2009	2º semestre	Ceará	BARBALHA	ZMA	12	35	420
+14/10/2009	Outubro	2009	2º semestre	Ceará	EUSEBIO	Waxy Maize	11	38	418
+13/10/2009	Outubro	2009	2º semestre	Ceará	FORTALEZA	Vitamina C	11	12	132
+12/10/2009	Outubro	2009	2º semestre	Ceará	SOBRAL	Creatina	12	8	80
+11/10/2009	Outubro	2009	2º semestre	Espírito Santo	SERRA	Maltodextrina	10	310	2480
+10/10/2009	Outubro	2009	2º semestre	Goiás	APARECIDA DE GOIANIA	Albumina	9	8	64
+09/10/2009	Outubro	2009	2º semestre	Mato Grosso do Sul	CAMPO GRANDE	Dextrose	10	38	304
+08/10/2009	Outubro	2009	2º semestre	Minas Gerais	BETIM	Whey Protein	11	327	3597
+07/10/2009	Outubro	2009	2º semestre	Minas Gerais	CONTAGEM	Glutamina	9	310	3720
+06/10/2009	Outubro	2009	2º semestre	Minas Gerais	CONTAGEM	ZMA	8	35	280
+05/10/2009	Outubro	2009	2º semestre	Paraíba	CONDE	Waxy Maize	11	38	418
+04/10/2009	Outubro	2009	2º semestre	Paraná	CASCAVEL	Vitamina C	8	12	96
+03/10/2009	Outubro	2009	2º semestre	Paraná	CURITIBA	Creatina	12	12	96
+02/10/2009	Outubro	2009	2º semestre	Paraná	LONDRINA	Maltodextrina	11	310	2480
+01/10/2009	Outubro	2009	2º semestre	Paraná	PINHAIS	Albumina	12	310	2480
+30/09/2009	Setembro	2009	2º semestre	Pernambuco	CARUARU	Dextrose	11	8	88
+29/09/2009	Setembro	2009	2º semestre	Pernambuco	JABOATAO DOS GUARARAPES	Whey Protein	11	327	3597
+28/09/2009	Setembro	2009	2º semestre	Pernambuco	RECIFE	Glutamina	8	8	64
+27/09/2009	Setembro	2009	2º semestre	Rio de Janeiro	BELFORD ROXO	ZMA	8	35	280
+26/09/2009	Setembro	2009	2º semestre	Rio de Janeiro	NOVA FRIBURGO	Waxy Maize	12	38	456
+25/09/2009	Setembro	2009	2º semestre	Rio de Janeiro	RIO DE JANEIRO	Vitamina C	8	12	96
+24/09/2009	Setembro	2009	2º semestre	Rio de Janeiro	SAO GONCALO	Creatina	12	8	96
+23/09/2009	Setembro	2009	2º semestre	Rio de Janeiro	VASSOURAS	Maltodextrina	8	310	2480
+22/09/2009	Setembro	2009	2º semestre	Rio Grande do Norte	PARNAMIRIM	Albumina	9	8	88
+21/09/2009	Setembro	2009	2º semestre	Rio Grande do Sul	CACHOEIRINHA	Dextrose	12	12	108
+20/09/2009	Setembro	2009	2º semestre	Rio Grande do Sul	PASSO FUNDO	Whey Protein	11	327	3597
+19/09/2009	Setembro	2009	2º semestre	Rondônia	GUAJARA MIRIM	Glutamina	11	310	3100
+18/09/2009	Setembro	2009	2º semestre	Roraima	BOA VISTA	ZMA	8	35	280
+17/09/2009	Setembro	2009	2º semestre	Santa Catarina	BIGUACU	Waxy Maize	11	38	418
+16/09/2009	Setembro	2009	2º semestre	Santa Catarina	CHAPECO	Vitamina C	9	12	108
+15/09/2009	Setembro	2009	2º semestre	Santa Catarina	SAO JOSE	Creatina	10	12	108
+14/09/2009	Setembro	2009	2º semestre	São Paulo	BARUERI	Maltodextrina	8	310	2480
+13/09/2009	Setembro	2009	2º semestre	São Paulo	CAMPINAS	Albumina	11	310	3720
+12/09/2009	Setembro	2009	2º semestre	São Paulo	CAMPINAS	Dextrose	11	8	64
+11/09/2009	Setembro	2009	2º semestre	São Paulo	GUARULHOS	Whey Protein	10	327	3270
+10/09/2009	Setembro	2009	2º semestre	São Paulo	MARILIA	Glutamina	10	8	64
+09/09/2009	Setembro	2009	2º semestre	São Paulo	MOGI DAS CRUZES	ZMA	8	35	280
+08/09/2009	Setembro	2009	2º semestre	São Paulo	PIRACICABA	Waxy Maize	8	38	304
+07/09/2009	Setembro	2009	2º semestre	São Paulo	POA	Vitamina C	8	12	96
+06/09/2009	Setembro	2009	2º semestre	São Paulo	RIBEIRAO PRETO	Creatina	8	8	72
+05/09/2009	Setembro	2009	2º semestre	São Paulo	RIBEIRÃO PRETO	Maltodextrina	9	310	2480
+04/09/2009	Setembro	2009	2º semestre	São Paulo	SANTOS	Albumina	8	8	88
+03/09/2009	Setembro	2009	2º semestre	São Paulo	SAO JOSE DO RIO PRETO	Dextrose	8	310	3720
+02/09/2009	Setembro	2009	2º semestre	São Paulo	SAO PAULO	Whey Protein	10	327	3270
+01/09/2009	Setembro	2009	2º semestre	São Paulo	SAO PAULO	Glutamina	12	35	420
+31/08/2009	Agosto	2009	2º semestre	São Paulo	SAO PAULO	ZMA	8	35	280
+30/08/2009	Agosto	2009	2º semestre	São Paulo	SAO PAULO	Waxy Maize	12	38	456
+29/08/2009	Agosto	2009	2º semestre	São Paulo	SOROCABA	Vitamina C	8	12	96
+28/08/2009	Agosto	2009	2º semestre	São Paulo	TAUBATE	Creatina	11	310	2790
+27/08/2009	Agosto	2009	2º semestre	São Paulo	TAUBATE	Maltodextrina	11	310	2480
+26/08/2009	Agosto	2009	2º semestre	Sergipe	NOSSA SENHORA DO SOCORRO	Albumina	8	310	2480
+25/08/2009	Agosto	2009	2º semestre	São Paulo	SÃO PAULO	Dextrose	12	310	3720
+24/08/2009	Agosto	2009	2º semestre	Bahia	SALVADOR	Whey Protein	11	327	3597
+23/08/2009	Agosto	2009	2º semestre	Minas Gerais	CONTAGEM	Glutamina	11	35	420
+22/08/2009	Agosto	2009	2º semestre	Minas Gerais	JUIZ DE FORA	ZMA	12	35	420
+21/08/2009	Agosto	2009	2º semestre	Paraná	CAMBE	Waxy Maize	12	38	456
+20/08/2009	Agosto	2009	2º semestre	Paraná	CASCAVEL	Vitamina C	8	12	96
+19/08/2009	Agosto	2009	2º semestre	Paraná	CURITIBA	Creatina	8		
+18/08/2009	Agosto	2009	2º semestre	Paraná	CURITIBA	Maltodextrina	9	310	2480
+17/08/2009	Agosto	2009	2º semestre	Paraná	CURITIBA	Albumina	10	35	420
+16/08/2009	Agosto	2009	2º semestre	Paraná	MARINGA	Dextrose	8	310	3720
+15/08/2009	Agosto	2009	2º semestre	Paraná	PARANAGUA	Whey Protein	8	327	2616
+14/08/2009	Agosto	2009	2º semestre	Rio de Janeiro	NITEROI	Glutamina	9	35	420
+13/08/2009	Agosto	2009	2º semestre	Rio de Janeiro	RIO DE JANEIRO	ZMA	12	35	420
+12/08/2009	Agosto	2009	2º semestre	Rio de Janeiro	RIO DE JANEIRO	Waxy Maize	11	38	418
+11/08/2009	Agosto	2009	2º semestre	Rio de Janeiro	RIO DE JANEIRO	Vitamina C	8	12	96
+10/08/2009	Agosto	2009	2º semestre	Rio de Janeiro	RIO DE JANEIRO	Creatina	9	12	144
+09/08/2009	Agosto	2009	2º semestre	Rio de Janeiro	RIO DE JANEIRO	Maltodextrina	9	310	2480
+08/08/2009	Agosto	2009	2º semestre	Rio de Janeiro	RIO DE JANEIRO	Albumina	12	8	64
+07/08/2009	Agosto	2009	2º semestre	Rio de Janeiro	RIO DE JANEIRO	Dextrose	8	310	3720
+06/08/2009	Agosto	2009	2º semestre	Rio de Janeiro	RIO DE JANEIRO	Whey Protein	8	327	2616
+05/08/2009	Agosto	2009	2º semestre	Rio de Janeiro	RIO DE JANEIRO	Glutamina	9	35	420
+04/08/2009	Agosto	2009	2º semestre	Rio de Janeiro	RIO DE JANEIRO	ZMA	12	35	420
+03/08/2009	Agosto	2009	2º semestre	Rio de Janeiro	RIO DE JANEIRO	Waxy Maize	11	38	418
+02/08/2009	Agosto	2009	2º semestre	Rio de Janeiro	RIO DE JANEIRO	Vitamina C	9	12	108
+01/08/2009	Agosto	2009	2º semestre	Rio de Janeiro	RIO DE JANEIRO	Creatina	9	327	3924
+31/07/2009	Julho	2009	2º semestre	Rio de Janeiro	RIO DE JANEIRO	Maltodextrina	11	310	2480
+30/07/2009	Julho	2009	2º semestre	Rio de Janeiro	RIO DE JANEIRO	Albumina	10	12	120
+29/07/2009	Julho	2009	2º semestre	Rio de Janeiro	SAO JOAO DE MERITI	Dextrose	9	310	3720
+28/07/2009	Julho	2009	2º semestre	Rio de Janeiro	VOLTA REDONDA	Whey Protein	12	327	3924
+27/07/2009	Julho	2009	2º semestre	Rio Grande do Sul	PORTO ALEGRE	Glutamina	12	35	420
+26/07/2009	Julho	2009	2º semestre	Santa Catarina	ICARA	ZMA	8	35	280
+25/07/2009	Julho	2009	2º semestre	Santa Catarina	PALHOÇA	Waxy Maize	9	38	342
+24/07/2009	Julho	2009	2º semestre	Santa Catarina	PORTO BELO	Vitamina C	9	12	108
+23/07/2009	Julho	2009	2º semestre	São Paulo	ATIBAIA	Creatina	10	8	96
+22/07/2009	Julho	2009	2º semestre	São Paulo	ATIBAIA	Maltodextrina	12	310	2480
+21/07/2009	Julho	2009	2º semestre	São Paulo	ATIBAIA	Albumina	9	8	80
+20/07/2009	Julho	2009	2º semestre	São Paulo	ATIBAIA	Dextrose	12	310	3720
+19/07/2009	Julho	2009	2º semestre	São Paulo	ATIBAIA	Whey Protein	8	327	2616
+18/07/2009	Julho	2009	2º semestre	São Paulo	BIRITIBA MIRIM	Glutamina	12	35	420
+17/07/2009	Julho	2009	2º semestre	São Paulo	DIADEMA	ZMA	8	35	280
+16/07/2009	Julho	2009	2º semestre	São Paulo	DIADEMA	Waxy Maize	12	38	456
+15/07/2009	Julho	2009	2º semestre	São Paulo	GUARULHOS	Vitamina C	12	12	144
+14/07/2009	Julho	2009	2º semestre	São Paulo	GUARULHOS	Creatina	8	8	72
+13/07/2009	Julho	2009	2º semestre	São Paulo	GUARULHOS	Maltodextrina	12	310	2480
+12/07/2009	Julho	2009	2º semestre	São Paulo	ITAQUAQUECETUBA	Albumina	8	310	3410
+11/07/2009	Julho	2009	2º semestre	São Paulo	ITAQUAQUECETUBA	Dextrose	12	310	3720
+10/07/2009	Julho	2009	2º semestre	São Paulo	ITAQUAQUECETUBA	Whey Protein	10	327	3270
+09/07/2009	Julho	2009	2º semestre	São Paulo	MAUA	Glutamina	12	35	420
+08/07/2009	Julho	2009	2º semestre	São Paulo	MAUA	ZMA	11	35	385
+07/07/2009	Julho	2009	2º semestre	São Paulo	MAUA	Waxy Maize	9	38	342
+06/07/2009	Julho	2009	2º semestre	São Paulo	MOGI DAS CRUZES	Vitamina C	8	12	96
+05/07/2009	Julho	2009	2º semestre	São Paulo	MOGI DAS CRUZES	Creatina	11	8	80
+04/07/2009	Julho	2009	2º semestre	São Paulo	MOGI DAS CRUZES	Maltodextrina	9	310	2480
+03/07/2009	Julho	2009	2º semestre	São Paulo	PIRACICABA	Albumina	11	8	64
+02/07/2009	Julho	2009	2º semestre	São Paulo	RIBEIRAO PIRES	Dextrose	8	310	3720
+01/07/2009	Julho	2009	2º semestre	São Paulo	RIBEIRAO PRETO	Whey Protein	11	327	3597
+30/06/2009	Junho	2009	1º semestre	São Paulo	SANTO ANDRE	Glutamina	8	35	420
+29/06/2009	Junho	2009	1º semestre	São Paulo	SANTO ANDRE	ZMA	10	35	350
+28/06/2009	Junho	2009	1º semestre	São Paulo	SANTO ANDRE	Waxy Maize	12	38	456
+27/06/2009	Junho	2009	1º semestre	São Paulo	SANTO ANDRE	Vitamina C	11	12	132
+26/06/2009	Junho	2009	1º semestre	São Paulo	SANTO ANDRE	Creatina	12	12	96
+25/06/2009	Junho	2009	1º semestre	São Paulo	SANTO ANDRE	Maltodextrina	8	310	2480
+24/06/2009	Junho	2009	1º semestre	São Paulo	SANTO ANDRE	Albumina	12	310	2480
+23/06/2009	Junho	2009	1º semestre	São Paulo	SANTO ANDRE	Dextrose	12	310	3720
+22/06/2009	Junho	2009	1º semestre	São Paulo	SANTO ANDRE	Whey Protein	11	327	3597
+21/06/2009	Junho	2009	1º semestre	São Paulo	SANTO ANDRE	Glutamina	8	35	420
+20/06/2009	Junho	2009	1º semestre	São Paulo	SANTO ANDRE	ZMA	9	35	315
+19/06/2009	Junho	2009	1º semestre	São Paulo	SANTO ANDRE	Waxy Maize	8	38	304
+18/06/2009	Junho	2009	1º semestre	São Paulo	SANTO ANDRE	Vitamina C	9	12	108
+17/06/2009	Junho	2009	1º semestre	São Paulo	SAO BERNARDO DO CAMPO	Creatina	9	8	96
+16/06/2009	Junho	2009	1º semestre	São Paulo	SAO BERNARDO DO CAMPO	Maltodextrina	12	310	2480
+15/06/2009	Junho	2009	1º semestre	São Paulo	SAO BERNARDO DO CAMPO	Albumina	12	310	2480
+14/06/2009	Junho	2009	1º semestre	São Paulo	SAO BERNARDO DO CAMPO	Dextrose	9	310	3720
+13/06/2009	Junho	2009	1º semestre	São Paulo	SAO BERNARDO DO CAMPO	Whey Protein	9	327	2943
+12/06/2009	Junho	2009	1º semestre	São Paulo	SAO BERNARDO DO CAMPO	Glutamina	8	35	420
+11/06/2009	Junho	2009	1º semestre	São Paulo	SAO CAETANO DO SUL	ZMA	10	35	350
+10/06/2009	Junho	2009	1º semestre	São Paulo	SAO JOSE DOS CAMPOS	Waxy Maize	10	38	380
+09/06/2009	Junho	2009	1º semestre	São Paulo	SAO JOSE DOS CAMPOS	Vitamina C	12	12	144
+08/06/2009	Junho	2009	1º semestre	São Paulo	SAO JOSE DOS CAMPOS	Creatina	10	8	96
+07/06/2009	Junho	2009	1º semestre	São Paulo	SAO JOSE DOS CAMPOS	Maltodextrina	11	310	2480
+06/06/2009	Junho	2009	1º semestre	São Paulo	SAO JOSE DOS CAMPOS	Albumina	12	310	2480
+05/06/2009	Junho	2009	1º semestre	São Paulo	SAO PAULO	Dextrose	9	310	3720
+04/06/2009	Junho	2009	1º semestre	São Paulo	SAO PAULO	Whey Protein	8	327	2616
+03/06/2009	Junho	2009	1º semestre	São Paulo	SAO PAULO	Glutamina	9	35	420
+02/06/2009	Junho	2009	1º semestre	São Paulo	SAO PAULO	ZMA	10	35	350
+01/06/2009	Junho	2009	1º semestre	São Paulo	SAO PAULO	Waxy Maize	8	38	304
+31/05/2009	Maio	2009	1º semestre	São Paulo	SAO PAULO	Vitamina C	9	12	108
+30/05/2009	Maio	2009	1º semestre	São Paulo	SAO PAULO	Creatina	9	8	96
+29/05/2009	Maio	2009	1º semestre	São Paulo	SAO PAULO	Maltodextrina	10	310	2480
+28/05/2009	Maio	2009	1º semestre	São Paulo	SAO PAULO	Albumina	10	310	2480
+27/05/2009	Maio	2009	1º semestre	São Paulo	SAO PAULO	Dextrose	8	310	3720
+26/05/2009	Maio	2009	1º semestre	São Paulo	SAO PAULO	Whey Protein	12	327	3924
+25/05/2009	Maio	2009	1º semestre	São Paulo	SAO PAULO	Glutamina	10	35	420
+24/05/2009	Maio	2009	1º semestre	São Paulo	SAO PAULO	ZMA	8	35	280
+23/05/2009	Maio	2009	1º semestre	São Paulo	SAO PAULO	Waxy Maize	11	38	418
+22/05/2009	Maio	2009	1º semestre	São Paulo	SAO PAULO	Vitamina C	12	12	144
+21/05/2009	Maio	2009	1º semestre	São Paulo	SAO PAULO	Creatina	8	8	96
+20/05/2009	Maio	2009	1º semestre	São Paulo	SAO PAULO	Maltodextrina	11	310	2480
+19/05/2009	Maio	2009	1º semestre	São Paulo	SAO PAULO	Albumina	12	310	2480
+18/05/2009	Maio	2009	1º semestre	São Paulo	SAO PAULO	Dextrose	8	310	3720
+17/05/2009	Maio	2009	1º semestre	São Paulo	SAO PAULO	Whey Protein	10	327	3270
+16/05/2009	Maio	2009	1º semestre	São Paulo	SAO PAULO	Glutamina	11	35	420
+15/05/2009	Maio	2009	1º semestre	São Paulo	SÃO PAULO	ZMA	12	35	420
+14/05/2009	Maio	2009	1º semestre	São Paulo	SOROCABA	Waxy Maize	12	38	456
+13/05/2009	Maio	2009	1º semestre	São Paulo	SOROCABA	Vitamina C	12	12	144
+12/05/2009	Maio	2009	1º semestre	São Paulo	SUZANO	Creatina	8	8	96
+11/05/2009	Maio	2009	1º semestre	São Paulo	SUZANO	Maltodextrina	11	310	2480
+10/05/2009	Maio	2009	1º semestre	São Paulo	SUZANO	Albumina	11	310	2480
+09/05/2009	Maio	2009	1º semestre	São Paulo	TABOAO DA SERRA	Dextrose	9	310	3720
+08/05/2009	Maio	2009	1º semestre	São Paulo	TATUI	Whey Protein	10	327	3270
+07/05/2009	Maio	2009	1º semestre	Bahia	CAMACARI	Glutamina	10	35	420
+06/05/2009	Maio	2009	1º semestre	Bahia	SALVADOR	ZMA	11	35	385
+05/05/2009	Maio	2009	1º semestre	Brasília	BRASILIA	Waxy Maize	8	38	304
+04/05/2009	Maio	2009	1º semestre	Ceará	CAUCAIA	Vitamina C	12	12	144
+03/05/2009	Maio	2009	1º semestre	Goiás	GOIANIA	Creatina	10	8	96
+02/05/2009	Maio	2009	1º semestre	Minas Gerais	BETIM	Maltodextrina	11	310	2480
+01/05/2009	Maio	2009	1º semestre	Minas Gerais	CONTAGEM	Albumina	11	310	2480
+30/04/2009	Abril	2009	1º semestre	Minas Gerais	RIBEIRAO DAS NEVES	Dextrose	12	310	3720
+29/04/2009	Abril	2009	1º semestre	Minas Gerais	UBERLANDIA	Whey Protein	11	327	3597
+28/04/2009	Abril	2009	1º semestre	Paraíba	JOAO PESSOA	Glutamina	12	35	420
+27/04/2009	Abril	2009	1º semestre	Paraná	PINHAIS	ZMA	11	35	385
+26/04/2009	Abril	2009	1º semestre	Pernambuco	CABO DE SANTO AGOSTINHO	Waxy Maize	8	38	304
+25/04/2009	Abril	2009	1º semestre	Pernambuco	CABO DE SANTO AGOSTINHO	Vitamina C	12	12	144
+24/04/2009	Abril	2009	1º semestre	Pernambuco	JABOATAO DOS GUARARAPES	Creatina	10	8	96
+23/04/2009	Abril	2009	1º semestre	Rio de Janeiro	DUQUE DE CAXIAS	Maltodextrina	10	310	2480
+22/04/2009	Abril	2009	1º semestre	Rio de Janeiro	NOVA IGUACU	Albumina	9	310	2480
+21/04/2009	Abril	2009	1º semestre	Rio de Janeiro	RIO DE JANEIRO	Dextrose	12	310	3720
+20/04/2009	Abril	2009	1º semestre	Rio de Janeiro	SAO JOAO DE MERITI	Whey Protein	12	327	3924
+19/04/2009	Abril	2009	1º semestre	Rio Grande do Sul	ESTEIO	Glutamina	9	35	420
+18/04/2009	Abril	2009	1º semestre	Rio Grande do Sul	PORTO ALEGRE	ZMA	8	35	280
+17/04/2009	Abril	2009	1º semestre	São Paulo	BARUERI	Waxy Maize	12	38	456
+16/04/2009	Abril	2009	1º semestre	São Paulo	BARUERI	Vitamina C	12	12	144
+15/04/2009	Abril	2009	1º semestre	São Paulo	GUARULHOS	Creatina	8	8	96
+14/04/2009	Abril	2009	1º semestre	São Paulo	ITAPEVI	Maltodextrina	9	310	2480
+13/04/2009	Abril	2009	1º semestre	São Paulo	OSASCO	Albumina	9	310	2480
+12/04/2009	Abril	2009	1º semestre	São Paulo	GUARULHOS	Dextrose	10	310	3720
+11/04/2009	Abril	2009	1º semestre	São Paulo	ITAPEVI	Whey Protein	11	327	3597
+10/04/2009	Abril	2009	1º semestre	São Paulo	JUNDIAI	Glutamina	9	35	420
+09/04/2009	Abril	2009	1º semestre	São Paulo	JUNDIAí	ZMA	8	35	280
+08/04/2009	Abril	2009	1º semestre	São Paulo	RIBEIRAO PRETO	Waxy Maize	9	38	342
+07/04/2009	Abril	2009	1º semestre	Bahia	FEIRA DE SANTANA	Vitamina C	11	12	132
+06/04/2009	Abril	2009	1º semestre	Bahia	VITORIA DA CONQUISTA	Creatina	11	8	96
+05/04/2009	Abril	2009	1º semestre	Espírito Santo	CARIACICA	Maltodextrina	10	310	2480
+04/04/2009	Abril	2009	1º semestre	Minas Gerais	BELO HORIZONTE	Albumina	11	310	2480
+03/04/2009	Abril	2009	1º semestre	Minas Gerais	CONTAGEM	Dextrose	9	310	3720
+02/04/2009	Abril	2009	1º semestre	Minas Gerais	ITAUNA	Whey Protein	11	327	3597
+01/04/2009	Abril	2009	1º semestre	Minas Gerais	JUIZ DE FORA	Glutamina	9	35	420
+31/03/2009	Março	2009	1º semestre	Minas Gerais	UBERLANDIA	ZMA	8	35	280
+30/03/2009	Março	2009	1º semestre	Paraná	ARAPONGAS	Waxy Maize	12	38	456
+29/03/2009	Março	2009	1º semestre	Paraná	CURITIBA	Vitamina C	11	12	132
+28/03/2009	Março	2009	1º semestre	Paraná	ROLANDIA	Creatina	9	8	96
+27/03/2009	Março	2009	1º semestre	Rio de Janeiro	RIO DE JANEIRO	Maltodextrina	11	310	2480
+26/03/2009	Março	2009	1º semestre	Rio Grande do Sul	PORTO ALEGRE	Albumina	9	310	2480
+25/03/2009	Março	2009	1º semestre	Rio Grande do Sul	PORTO ALEGRE	Dextrose	9	310	3720
+24/03/2009	Março	2009	1º semestre	Santa Catarina	BRUSQUE	Whey Protein	8	327	2616
+23/03/2009	Março	2009	1º semestre	Santa Catarina	JOINVILLE	Glutamina	8	35	420
+22/03/2009	Março	2009	1º semestre	São Paulo	ARUJA	ZMA	10	35	350
+21/03/2009	Março	2009	1º semestre	São Paulo	GUARULHOS	Waxy Maize	9	38	342
+20/03/2009	Março	2009	1º semestre	São Paulo	GUARULHOS	Vitamina C	8	12	96
+19/03/2009	Março	2009	1º semestre	São Paulo	OSASCO	Creatina	10	8	96
+18/03/2009	Março	2009	1º semestre	São Paulo	SANTO ANDRE	Maltodextrina	12	310	2480
+17/03/2009	Março	2009	1º semestre	São Paulo	SAO CAETANO DO SUL	Albumina	8	310	2480
+16/03/2009	Março	2009	1º semestre	São Paulo	SÃO JOÃO DA BOA VISTA	Dextrose	9	310	3720
+15/03/2009	Março	2009	1º semestre	São Paulo	SAO JOSE DOS CAMPOS	Whey Protein	11	327	3597
+14/03/2009	Março	2009	1º semestre	São Paulo	SAO PAULO	Glutamina	11	35	420
+13/03/2009	Março	2009	1º semestre	São Paulo	SAO PAULO	ZMA	8	35	280
+12/03/2009	Março	2009	1º semestre	São Paulo	SAO PAULO	Waxy Maize	8	38	304
+11/03/2009	Março	2009	1º semestre	São Paulo	SAO PAULO	Vitamina C	11	12	132
+10/03/2009	Março	2009	1º semestre	São Paulo	SAO PAULO	Creatina	10	8	96
+09/03/2009	Março	2009	1º semestre	São Paulo	SAO PAULO	Maltodextrina	12	310	2480
+08/03/2009	Março	2009	1º semestre	São Paulo	SAO PAULO	Albumina	12	310	2480
+07/03/2009	Março	2009	1º semestre	São Paulo	SAO PAULO	Dextrose	8	310	3720
+06/03/2009	Março	2009	1º semestre	São Paulo	SAO PAULO	Whey Protein	9	327	2943
+05/03/2009	Março	2009	1º semestre	São Paulo	SAO PAULO	Glutamina	11	35	420
+04/03/2009	Março	2009	1º semestre	São Paulo	SAO PAULO	ZMA	11	35	385
+03/03/2009	Março	2009	1º semestre	São Paulo	SAO PAULO	Waxy Maize	9	38	342
+02/03/2009	Março	2009	1º semestre	São Paulo	SAO PAULO	Vitamina C	11	12	132
+01/03/2009	Março	2009	1º semestre	São Paulo	SAO PAULO	Creatina	9	8	96
+28/02/2009	Fevereiro	2009	1º semestre	São Paulo	SAO PAULO	Maltodextrina	11	310	2480
+27/02/2009	Fevereiro	2009	1º semestre	São Paulo	SAO PAULO	Albumina	12	310	2480
+26/02/2009	Fevereiro	2009	1º semestre	São Paulo	SAO PAULO	Dextrose	8	310	3720
+25/02/2009	Fevereiro	2009	1º semestre	São Paulo	SAO PAULO	Whey Protein	10	327	3270
+24/02/2009	Fevereiro	2009	1º semestre	São Paulo	SAO PAULO	Glutamina	11	35	420
+23/02/2009	Fevereiro	2009	1º semestre	São Paulo	SÃO PAULO	ZMA	12	35	420
+22/02/2009	Fevereiro	2009	1º semestre	São Paulo	TAUBATE	Waxy Maize	8	38	304
+21/02/2009	Fevereiro	2009	1º semestre	Bahia	BARREIRAS	Vitamina C	10	12	120
+20/02/2009	Fevereiro	2009	1º semestre	Bahia	CAMACARI	Creatina	8	8	96
+19/02/2009	Fevereiro	2009	1º semestre	Bahia	EUNAPOLIS	Maltodextrina	10	310	2480
+18/02/2009	Fevereiro	2009	1º semestre	Bahia	FEIRA DE SANTANA	Albumina	9	310	2480
+17/02/2009	Fevereiro	2009	1º semestre	Bahia	ILHEUS	Dextrose	10	310	3720
+16/02/2009	Fevereiro	2009	1º semestre	Bahia	JUAZEIRO	Whey Protein	8	327	2616
+15/02/2009	Fevereiro	2009	1º semestre	Bahia	LAURO DE FREITAS	Glutamina	12	35	420
+14/02/2009	Fevereiro	2009	1º semestre	Bahia	SALVADOR	ZMA	12	35	420
+13/02/2009	Fevereiro	2009	1º semestre	Bahia	SALVADOR	Waxy Maize	12	38	456
+12/02/2009	Fevereiro	2009	1º semestre	Bahia	SALVADOR	Vitamina C	10	12	120
+11/02/2009	Fevereiro	2009	1º semestre	Bahia	SALVADOR	Creatina	10	8	96
+10/02/2009	Fevereiro	2009	1º semestre	Bahia	SALVADOR	Maltodextrina	11	310	2480
+09/02/2009	Fevereiro	2009	1º semestre	Bahia	SALVADOR	Albumina	10	310	2480
+08/02/2009	Fevereiro	2009	1º semestre	Bahia	VITORIA DA CONQUISTA	Dextrose	12	310	3720
+07/02/2009	Fevereiro	2009	1º semestre	Ceará	CAUCAIA	Whey Protein	12	327	3924
+06/02/2009	Fevereiro	2009	1º semestre	Espírito Santo	SERRA	Glutamina	12	35	420
+05/02/2009	Fevereiro	2009	1º semestre	Espírito Santo	VILA VELHA	ZMA	12	35	420
+04/02/2009	Fevereiro	2009	1º semestre	Goiás	GOIANIA	Waxy Maize	9	38	342
+03/02/2009	Fevereiro	2009	1º semestre	Mato Grosso	CUIABA	Vitamina C	10	12	120
+02/02/2009	Fevereiro	2009	1º semestre	Mato Grosso	CUIABA	Creatina	8	8	96
+01/02/2009	Fevereiro	2009	1º semestre	Mato Grosso	CUIABA	Maltodextrina	8	310	2480
+31/01/2009	Janeiro	2009	1º semestre	Mato Grosso	SINOP	Albumina	8	310	2480
+30/01/2009	Janeiro	2009	1º semestre	Mato Grosso do Sul	CAMPO GRANDE	Dextrose	8	310	3720
+29/01/2009	Janeiro	2009	1º semestre	Mato Grosso do Sul	CAMPO GRANDE	Whey Protein	10	327	3270
+28/01/2009	Janeiro	2009	1º semestre	Minas Gerais	GOVERNADOR VALADARES	Glutamina	8	35	420
+27/01/2009	Janeiro	2009	1º semestre	Minas Gerais	JUIZ DE FORA	ZMA	11	35	385
+26/01/2009	Janeiro	2009	1º semestre	Minas Gerais	UBERABA	Waxy Maize	10	38	380
+25/01/2009	Janeiro	2009	1º semestre	Minas Gerais	UBERLANDIA	Vitamina C	8	12	96
+24/01/2009	Janeiro	2009	1º semestre	Paraná	CAMBE	Creatina	12	8	96
+23/01/2009	Janeiro	2009	1º semestre	Paraná	LONDRINA	Maltodextrina	10	310	2480
+22/01/2009	Janeiro	2009	1º semestre	Paraná	MARINGA	Albumina	9	310	2480
+21/01/2009	Janeiro	2009	1º semestre	Pernambuco	JABOATAO DOS GUARARAPES	Dextrose	8	310	3720
+20/01/2009	Janeiro	2009	1º semestre	Rio de Janeiro	CAMPOS DOS GOYTACAZES	Whey Protein	8	327	2616
+19/01/2009	Janeiro	2009	1º semestre	Rio de Janeiro	NOVA IGUACU	Glutamina	10	35	420
+18/01/2009	Janeiro	2009	1º semestre	Rio de Janeiro	RIO DE JANEIRO	ZMA	12	35	420
+17/01/2009	Janeiro	2009	1º semestre	Rio de Janeiro	RIO DE JANEIRO	Waxy Maize	12	38	456
+16/01/2009	Janeiro	2009	1º semestre	Rio de Janeiro	RIO DE JANEIRO	Vitamina C	9	12	108
+15/01/2009	Janeiro	2009	1º semestre	Rio de Janeiro	RIO DE JANEIRO	Creatina	12	8	96
+14/01/2009	Janeiro	2009	1º semestre	Rio de Janeiro	SAO GONCALO	Maltodextrina	10	310	2480
+13/01/2009	Janeiro	2009	1º semestre	Rio de Janeiro	VOLTA REDONDA	Albumina	12	310	2480
+12/01/2009	Janeiro	2009	1º semestre	Rio Grande do Sul	CACHOEIRINHA	Dextrose	8	310	3720
+11/01/2009	Janeiro	2009	1º semestre	Rio Grande do Sul	CAXIAS DO SUL	Whey Protein	8	327	2616
+10/01/2009	Janeiro	2009	1º semestre	Rio Grande do Sul	PORTO ALEGRE	Glutamina	8	35	420
+09/01/2009	Janeiro	2009	1º semestre	Rondônia	PORTO VELHO	ZMA	10	35	350
+08/01/2009	Janeiro	2009	1º semestre	Santa Catarina	BALNEARIO CAMBORIU	Waxy Maize	10	38	380
+07/01/2009	Janeiro	2009	1º semestre	Santa Catarina	FLORIANOPOLIS	Vitamina C	8	12	96
+06/01/2009	Janeiro	2009	1º semestre	Santa Catarina	JOINVILLE	Creatina	11	8	96
+05/01/2009	Janeiro	2009	1º semestre	São Paulo	ARACATUBA	Maltodextrina	11	310	2480
+04/01/2009	Janeiro	2009	1º semestre	São Paulo	ARUJÁ	Albumina	9	310	2480
+03/01/2009	Janeiro	2009	1º semestre	São Paulo	BAURU	Dextrose	10	310	3720
+02/01/2009	Janeiro	2009	1º semestre	São Paulo	BAURU	Whey Protein	10	327	3270
+01/01/2009	Janeiro	2009	1º semestre	São Paulo	BOTUCATU	Glutamina	10	35	420
